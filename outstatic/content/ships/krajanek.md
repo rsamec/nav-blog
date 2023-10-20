@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/5671166?v=4'
 slug: 'krajanek'
 description: ''
-coverImage: '/images/file4-AyMj.jpeg'
+coverImage: '/images/file4-EyNz.jpeg'
 publishedAt: '2023-10-20T19:26:23.955Z'
 ---
 
@@ -20,13 +20,9 @@ Spotřebované palivo není v ceně pronájmu a jeho úhrada probíhá po ukonč
 
 Pes, či jiné domácí zvíře na palubě – 150,-
 
-
-
 <br>
 
 <br>
 
 <br>
-
-
 
