@@ -20,3 +20,6 @@ Spotřebované palivo není v ceně pronájmu a jeho úhrada probíhá po ukonč
 
 Pes, či jiné domácí zvíře na palubě – 150,-
 
+
+<div style="background:blue">test</div>
+
