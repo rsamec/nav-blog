@@ -1,25 +1,7 @@
 {
-  "commit": "f489324a308f6b2f1a9ad7efb6af4a66f3bced52",
-  "generated": "Sun, 22 Oct 2023 11:05:47 GMT",
+  "commit": "4a79d53e01395635b9c45f83991cb961caa5f967",
+  "generated": "2023-10-24T19:52:13.819Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "b6006a63e5e03a7d80a60fe1d0a25c8e532439fa",
-        "hash": "522422813",
-        "path": "outstatic/content/ships/hausbot-navis.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "ships",
-      "coverImage": "/images/file-5-MwNj.jpeg",
-      "description": "",
-      "publishedAt": "2023-10-22T10:41:13.953Z",
-      "slug": "hausbot-navis",
-      "status": "published",
-      "title": "HAUSBOT NAVIS"
-    },
     {
       "__outstatic": {
         "commit": "6aa79a6e1eb1a357aa2f10088f0116232e8e97ac",
@@ -37,6 +19,24 @@
       "slug": "krajanek",
       "status": "published",
       "title": "Krajánek"
+    },
+    {
+      "__outstatic": {
+        "commit": "4a79d53e01395635b9c45f83991cb961caa5f967",
+        "hash": "82875776",
+        "path": "outstatic/content/ships/hausbot-navis.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "ships",
+      "coverImage": "/images/file-5-MwNj.jpeg",
+      "description": "",
+      "publishedAt": "2023-10-22T10:41:13.953Z",
+      "slug": "hausbot-navis",
+      "status": "published",
+      "title": "HAUSBOT NAVIS"
     }
   ]
 }

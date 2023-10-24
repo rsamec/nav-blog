@@ -16,7 +16,7 @@ Pobyty jsou členěny na tzv. „mini-týden“ a „víkend“ (lze spojit v t�
 
 Spotřebované palivo není v ceně pronájmu a jeho úhrada probíhá po ukončení plavby (na 3 – 4 denní pobyt zhruba 1 700 – 2 500 Kč)
 
-**Vratná kauce 5000,- Kč**
+**Vratná kauce 15 000,- Kč**
 
 Pes, či jiné domácí zvíře na palubě – 150,-
 
