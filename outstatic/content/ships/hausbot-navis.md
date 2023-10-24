@@ -1,5 +1,5 @@
 ---
-title: 'HAUSBOT NAVIS'
+title: 'HAUSBOT NAVIS 32'
 status: 'published'
 author:
   name: 'Roman Samec'

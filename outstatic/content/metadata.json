@@ -1,6 +1,6 @@
 {
   "commit": "4a79d53e01395635b9c45f83991cb961caa5f967",
-  "generated": "2023-10-24T19:52:13.819Z",
+  "generated": "2023-10-24T19:52:40.600Z",
   "metadata": [
     {
       "__outstatic": {
@@ -23,7 +23,7 @@
     {
       "__outstatic": {
         "commit": "4a79d53e01395635b9c45f83991cb961caa5f967",
-        "hash": "82875776",
+        "hash": "3741223845",
         "path": "outstatic/content/ships/hausbot-navis.md"
       },
       "author": {
@@ -36,7 +36,7 @@
       "publishedAt": "2023-10-22T10:41:13.953Z",
       "slug": "hausbot-navis",
       "status": "published",
-      "title": "HAUSBOT NAVIS"
+      "title": "HAUSBOT NAVIS 32"
     }
   ]
 }
