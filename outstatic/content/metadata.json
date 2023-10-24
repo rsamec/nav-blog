@@ -1,6 +1,6 @@
 {
-  "commit": "4a79d53e01395635b9c45f83991cb961caa5f967",
-  "generated": "2023-10-24T19:52:40.600Z",
+  "commit": "39d07979123ffdff59578e073aa28f70b44b0f69",
+  "generated": "Tue, 24 Oct 2023 19:53:05 GMT",
   "metadata": [
     {
       "__outstatic": {
@@ -22,7 +22,7 @@
     },
     {
       "__outstatic": {
-        "commit": "4a79d53e01395635b9c45f83991cb961caa5f967",
+        "commit": "fa2c1a85ca501588bb2e7c5eee10a72c77cd4099",
         "hash": "3741223845",
         "path": "outstatic/content/ships/hausbot-navis.md"
       },
