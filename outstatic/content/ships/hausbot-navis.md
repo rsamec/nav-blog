@@ -7,6 +7,7 @@ author:
 slug: 'hausbot-navis'
 description: ''
 coverImage: '/images/file-5-MwNj.jpeg'
+occupied: 'https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTxCyobEJnpLcte-37LgDJicoHeCzav2kuXalQK6QDU-kky1Eshz_6VEm0mDfwKUw/pubhtml/sheet?headers=false&gid=144343434'
 publishedAt: '2023-10-22T10:41:13.953Z'
 ---
 
@@ -20,9 +21,5 @@ Spotřebované palivo není v ceně pronájmu a jeho úhrada probíhá po ukonč
 
 Pes, či jiné domácí zvíře na palubě – 150,-
 
-test
 
-```htmlbars
-asdassafa
-```
 
