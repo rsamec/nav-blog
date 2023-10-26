@@ -3,12 +3,14 @@ author:
   name: 'Roman Samec'
   picture: 'https://avatars.githubusercontent.com/u/5671166?v=4'
 coverImage: ''
-title: 'LODĚ NA ŘECE - PŮJČOVNA LODÍ'
+title: 'HOME'
 status: 'published'
 slug: 'home'
 description: ''
 publishedAt: '2023-10-26T10:47:32.499Z'
 ---
+
+## LODĚ NA ŘECE - PŮJČOVNA LODÍ
 
 *Nabízíme zapůjčení obytných lodí na Vaši dovolenou, a to bez jakéhokoli oprávnění či zkoušek. Místo pro Vaši aktivní dovolenou s rodinou nebo přijeďte na ryby. Netradiční rekreace pro rodiny s dětmi.*
 

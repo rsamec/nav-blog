@@ -1,6 +1,6 @@
 {
-  "commit": "abc6e4596df042a80639fe7d9b97db77bfe29515",
-  "generated": "2023-10-26T10:42:46.802Z",
+  "commit": "55c20ce7b1ba78c06b89a2c44d416e47088a50ab",
+  "generated": "2023-10-26T10:45:26.703Z",
   "metadata": [
     {
       "__outstatic": {
@@ -40,8 +40,8 @@
     },
     {
       "__outstatic": {
-        "commit": "abc6e4596df042a80639fe7d9b97db77bfe29515",
-        "hash": "996301146",
+        "commit": "55c20ce7b1ba78c06b89a2c44d416e47088a50ab",
+        "hash": "2391275965",
         "path": "outstatic/content/pages/home.md"
       },
       "author": {
@@ -54,7 +54,7 @@
       "publishedAt": "2023-10-26T10:47:32.499Z",
       "slug": "home",
       "status": "published",
-      "title": "LODĚ NA ŘECE - PŮJČOVNA LODÍ"
+      "title": "HOME"
     }
   ]
 }
