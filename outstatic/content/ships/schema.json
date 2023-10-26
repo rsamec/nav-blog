@@ -1,0 +1,13 @@
+{
+  "title": "ships",
+  "type": "object",
+  "properties": {
+    "occupied": {
+      "required": true,
+      "description": "",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "occupied"
+    }
+  }
+}
