@@ -11,6 +11,8 @@ occupied: 'https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vQ29GwL8ZV_QrKLrO
 publishedAt: '2023-10-26T18:40:38.260Z'
 ---
 
+Domovským přístavem lodě je **přehrada Orlík – Kemp Popelíky**.
+
 **Ceník a rezervace lodě**
 
 Pobyty jsou členěny na tzv. „mini-týden“ a „víkend“ (lze spojit v týdenní pobyt)
@@ -20,6 +22,4 @@ Spotřebované palivo není v ceně pronájmu a jeho úhrada probíhá po ukonč
 **Vratná kauce 3000,- Kč**
 
 Pes, či jiné domácí zvíře na palubě – 150,-
-
-Domovským přístavem lodě je přehrada Orlík – Kemp Popelíky.
 
