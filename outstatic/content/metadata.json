@@ -1,6 +1,6 @@
 {
-  "commit": "4e3ee9a9cc01657aedc3ec3054907518eb21f194",
-  "generated": "2023-10-26T20:08:49.235Z",
+  "commit": "758e4fec133a7882994ae7b6daca6bf0de2a571e",
+  "generated": "Thu, 26 Oct 2023 20:08:55 GMT",
   "metadata": [
     {
       "__outstatic": {
@@ -22,24 +22,6 @@
     },
     {
       "__outstatic": {
-        "commit": "f09655ad2a4530f34520de8aaa6fa9675c531a18",
-        "hash": "2314791218",
-        "path": "outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-10-26T10:47:32.499Z",
-      "slug": "home",
-      "status": "published",
-      "title": "HOME"
-    },
-    {
-      "__outstatic": {
         "commit": "1c6d13a7216c29d86ab7abcbfab7f6879dfc201c",
         "hash": "403836780",
         "path": "outstatic/content/projects/cykloturistika.md"
@@ -58,60 +40,21 @@
     },
     {
       "__outstatic": {
-        "commit": "7e4e190455cfd417d6cbba0d438d331539ba5b9e",
-        "hash": "58217937",
-        "path": "outstatic/content/ships/krajanek-672.md"
+        "commit": "f09655ad2a4530f34520de8aaa6fa9675c531a18",
+        "hash": "2314791218",
+        "path": "outstatic/content/pages/home.md"
       },
       "author": {
         "name": "Roman Samec",
         "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
       },
-      "collection": "ships",
-      "coverImage": "/images/krajanek672-U0ND.jpg",
-      "description": "Větší typ lodi Krajánek 672, který navíc nabízí prostornější kajutu, vnitřní kormidelnu, a především větší opalovací palubu na přídi.",
-      "occupied": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTDzk-BxFl7VEWSIzluwDN4IsXvVILf3r3tTaqvxJhJKMN_xYeQeLinPou1RMBbRw/pubhtml?gid=144343434&single=true",
-      "publishedAt": "2023-10-26T18:31:08.735Z",
-      "slug": "krajanek-672",
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-10-26T10:47:32.499Z",
+      "slug": "home",
       "status": "published",
-      "title": "KRAJÁNEK 672"
-    },
-    {
-      "__outstatic": {
-        "commit": "2acf2da179b940691c29af6afd8fa335bb25f1a3",
-        "hash": "2496563907",
-        "path": "outstatic/content/ships/krajanek670.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "ships",
-      "coverImage": "/images/file4-EyNz.jpeg",
-      "description": "Větší typ lodi Krajánek 600, který navíc nabízí prostornější kajutu, vnitřní kormidelnu, a především větší opalovací palubu na přídi. ",
-      "occupied": "https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTxCyobEJnpLcte-37LgDJicoHeCzav2kuXalQK6QDU-kky1Eshz_6VEm0mDfwKUw/pubhtml/sheet?headers=false&gid=144343434",
-      "publishedAt": "2023-10-20T19:26:23.955Z",
-      "slug": "krajanek670",
-      "status": "published",
-      "title": "KRAJÁNEK 670"
-    },
-    {
-      "__outstatic": {
-        "commit": "7a6134fdadc3da59052a2676a61b842428bb398c",
-        "hash": "1842742863",
-        "path": "outstatic/content/ships/hausbot-navis.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "ships",
-      "coverImage": "/images/file-5-MwNj.jpeg",
-      "description": "Ve své kategorii plavidel nabízí hausbót nezvykle velké rozměry venkovní paluby o celkové ploše 15 m2. Ubytování je ve dvou kajutách, kde se na třech dvojlůžkách vyspí pohodlně 6 osob. ",
-      "occupied": "https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTymAEq0XAJtuZYvVIvsA7aWQrBmxbN1Do9aWusxsLHv21m5R-YkLrlzsLlQCrgQA/pubhtml/sheet?headers=false&gid=144343434",
-      "publishedAt": "2023-10-22T10:41:13.953Z",
-      "slug": "hausbot-navis",
-      "status": "published",
-      "title": "HAUSBÓT NAVIS"
+      "title": "HOME"
     },
     {
       "__outstatic": {
@@ -133,7 +76,7 @@
     },
     {
       "__outstatic": {
-        "commit": "4e3ee9a9cc01657aedc3ec3054907518eb21f194",
+        "commit": "d07b318b5163eee4cb4812780b65a5dd2fd1018a",
         "hash": "2948525265",
         "path": "outstatic/content/ships/krajanek-600.md"
       },
@@ -149,6 +92,25 @@
       "slug": "krajanek-600",
       "status": "published",
       "title": "KRAJÁNEK 600"
+    },
+    {
+      "__outstatic": {
+        "commit": "7a6134fdadc3da59052a2676a61b842428bb398c",
+        "hash": "1842742863",
+        "path": "outstatic/content/ships/hausbot-navis.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "ships",
+      "coverImage": "/images/file-5-MwNj.jpeg",
+      "description": "Ve své kategorii plavidel nabízí hausbót nezvykle velké rozměry venkovní paluby o celkové ploše 15 m2. Ubytování je ve dvou kajutách, kde se na třech dvojlůžkách vyspí pohodlně 6 osob. ",
+      "occupied": "https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTymAEq0XAJtuZYvVIvsA7aWQrBmxbN1Do9aWusxsLHv21m5R-YkLrlzsLlQCrgQA/pubhtml/sheet?headers=false&gid=144343434",
+      "publishedAt": "2023-10-22T10:41:13.953Z",
+      "slug": "hausbot-navis",
+      "status": "published",
+      "title": "HAUSBÓT NAVIS"
     }
   ]
 }
