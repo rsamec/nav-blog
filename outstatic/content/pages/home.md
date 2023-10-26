@@ -10,7 +10,5 @@ description: ''
 publishedAt: '2023-10-26T10:47:32.499Z'
 ---
 
-
-
 *Nabízíme zapůjčení obytných lodí na Vaši dovolenou, a to bez jakéhokoli oprávnění či zkoušek. Místo pro Vaši aktivní dovolenou s rodinou nebo přijeďte na ryby. Netradiční rekreace pro rodiny s dětmi.*
 
