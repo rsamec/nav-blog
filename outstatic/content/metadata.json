@@ -1,6 +1,6 @@
 {
-  "commit": "86f9b0255b32abb76eda1f7d527a6925a2621e7e",
-  "generated": "2023-10-26T19:44:06.102Z",
+  "commit": "cafaa3375f901dff2de62c40c0faa4c7b033b214",
+  "generated": "2023-10-26T19:44:35.549Z",
   "metadata": [
     {
       "__outstatic": {
@@ -58,25 +58,6 @@
     },
     {
       "__outstatic": {
-        "commit": "6841149e581e48042df5cab16823d035448b111f",
-        "hash": "1965441182",
-        "path": "outstatic/content/ships/hausbot-navis.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "ships",
-      "coverImage": "/images/file-5-MwNj.jpeg",
-      "description": "",
-      "occupied": "https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTymAEq0XAJtuZYvVIvsA7aWQrBmxbN1Do9aWusxsLHv21m5R-YkLrlzsLlQCrgQA/pubhtml/sheet?headers=false&gid=144343434",
-      "publishedAt": "2023-10-22T10:41:13.953Z",
-      "slug": "hausbot-navis",
-      "status": "published",
-      "title": "HAUSBÓT NAVIS"
-    },
-    {
-      "__outstatic": {
         "commit": "de5c44f0de0c996dbbf4ebe0b17ec4b1d0439d71",
         "hash": "1515179513",
         "path": "outstatic/content/projects/priprava-na-pobyt.md"
@@ -130,6 +111,25 @@
       "slug": "krajanek-600",
       "status": "published",
       "title": "KRAJÁNEK 600"
+    },
+    {
+      "__outstatic": {
+        "commit": "cafaa3375f901dff2de62c40c0faa4c7b033b214",
+        "hash": "1842742863",
+        "path": "outstatic/content/ships/hausbot-navis.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "ships",
+      "coverImage": "/images/file-5-MwNj.jpeg",
+      "description": "Ve své kategorii plavidel nabízí hausbót nezvykle velké rozměry venkovní paluby o celkové ploše 15 m2. Ubytování je ve dvou kajutách, kde se na třech dvojlůžkách vyspí pohodlně 6 osob. ",
+      "occupied": "https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTymAEq0XAJtuZYvVIvsA7aWQrBmxbN1Do9aWusxsLHv21m5R-YkLrlzsLlQCrgQA/pubhtml/sheet?headers=false&gid=144343434",
+      "publishedAt": "2023-10-22T10:41:13.953Z",
+      "slug": "hausbot-navis",
+      "status": "published",
+      "title": "HAUSBÓT NAVIS"
     }
   ]
 }
