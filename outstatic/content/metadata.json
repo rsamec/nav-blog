@@ -1,24 +1,43 @@
 {
-  "commit": "badeb24ab826d5c5b7016479938b03563ff3987b",
-  "generated": "2023-10-26T18:06:53.520Z",
+  "commit": "fb184b335e5071ec5f07745dafd035a62843c2bf",
+  "generated": "Thu, 26 Oct 2023 18:07:24 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "de5c44f0de0c996dbbf4ebe0b17ec4b1d0439d71",
-        "hash": "1515179513",
-        "path": "outstatic/content/projects/priprava-na-pobyt.md"
+        "commit": "da63550d1548ac2af511557e303106bc61fa0f8d",
+        "hash": "1679928199",
+        "path": "outstatic/content/pages/home.md"
       },
       "author": {
         "name": "Roman Samec",
         "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
       },
-      "collection": "projects",
-      "coverImage": "/images/trip-E3OD.jpg",
+      "collection": "pages",
+      "coverImage": "",
       "description": "",
-      "publishedAt": "2023-10-26T11:34:31.607Z",
-      "slug": "priprava-na-pobyt",
+      "publishedAt": "2023-10-26T10:47:32.499Z",
+      "slug": "home",
       "status": "published",
-      "title": "Příprava na pobyt"
+      "title": "HOME"
+    },
+    {
+      "__outstatic": {
+        "commit": "ec651cfd540085f8b79cac440b943630737f4f08",
+        "hash": "3028179419",
+        "path": "outstatic/content/ships/krajanek670.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "ships",
+      "coverImage": "/images/file4-EyNz.jpeg",
+      "description": "",
+      "occupied": "https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTxCyobEJnpLcte-37LgDJicoHeCzav2kuXalQK6QDU-kky1Eshz_6VEm0mDfwKUw/pubhtml/sheet?headers=false&gid=144343434",
+      "publishedAt": "2023-10-20T19:26:23.955Z",
+      "slug": "krajanek670",
+      "status": "published",
+      "title": "Krajánek 670"
     },
     {
       "__outstatic": {
@@ -40,62 +59,7 @@
     },
     {
       "__outstatic": {
-        "commit": "1c6d13a7216c29d86ab7abcbfab7f6879dfc201c",
-        "hash": "403836780",
-        "path": "outstatic/content/projects/cykloturistika.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "/images/bike_01-M0MD.jpg",
-      "description": "",
-      "publishedAt": "2023-10-26T11:33:02.314Z",
-      "slug": "cykloturistika",
-      "status": "published",
-      "title": "Cykloturistika"
-    },
-    {
-      "__outstatic": {
-        "commit": "9168b91c3a9789e1019caf08c00718d7cc5fee75",
-        "hash": "1679928199",
-        "path": "outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-10-26T10:47:32.499Z",
-      "slug": "home",
-      "status": "published",
-      "title": "HOME"
-    },
-    {
-      "__outstatic": {
-        "commit": "d02d4bcf17d71f727713796a3218934b9dd19ff5",
-        "hash": "3028179419",
-        "path": "outstatic/content/ships/krajanek670.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "ships",
-      "coverImage": "/images/file4-EyNz.jpeg",
-      "description": "",
-      "occupied": "https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTxCyobEJnpLcte-37LgDJicoHeCzav2kuXalQK6QDU-kky1Eshz_6VEm0mDfwKUw/pubhtml/sheet?headers=false&gid=144343434",
-      "publishedAt": "2023-10-20T19:26:23.955Z",
-      "slug": "krajanek670",
-      "status": "published",
-      "title": "Krajánek 670"
-    },
-    {
-      "__outstatic": {
-        "commit": "badeb24ab826d5c5b7016479938b03563ff3987b",
+        "commit": "6841149e581e48042df5cab16823d035448b111f",
         "hash": "1965441182",
         "path": "outstatic/content/ships/hausbot-navis.md"
       },
@@ -111,6 +75,42 @@
       "slug": "hausbot-navis",
       "status": "published",
       "title": "HAUSBÓT NAVIS"
+    },
+    {
+      "__outstatic": {
+        "commit": "de5c44f0de0c996dbbf4ebe0b17ec4b1d0439d71",
+        "hash": "1515179513",
+        "path": "outstatic/content/projects/priprava-na-pobyt.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "/images/trip-E3OD.jpg",
+      "description": "",
+      "publishedAt": "2023-10-26T11:34:31.607Z",
+      "slug": "priprava-na-pobyt",
+      "status": "published",
+      "title": "Příprava na pobyt"
+    },
+    {
+      "__outstatic": {
+        "commit": "1c6d13a7216c29d86ab7abcbfab7f6879dfc201c",
+        "hash": "403836780",
+        "path": "outstatic/content/projects/cykloturistika.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "/images/bike_01-M0MD.jpg",
+      "description": "",
+      "publishedAt": "2023-10-26T11:33:02.314Z",
+      "slug": "cykloturistika",
+      "status": "published",
+      "title": "Cykloturistika"
     }
   ]
 }
