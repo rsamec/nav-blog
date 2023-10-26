@@ -1,6 +1,6 @@
 {
-  "commit": "d02d4bcf17d71f727713796a3218934b9dd19ff5",
-  "generated": "2023-10-26T18:05:10.543Z",
+  "commit": "badeb24ab826d5c5b7016479938b03563ff3987b",
+  "generated": "2023-10-26T18:06:53.520Z",
   "metadata": [
     {
       "__outstatic": {
@@ -76,25 +76,6 @@
     },
     {
       "__outstatic": {
-        "commit": "de2206d5255e7498aadbc9454917590d1728c093",
-        "hash": "3083435758",
-        "path": "outstatic/content/ships/hausbot-navis.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "ships",
-      "coverImage": "/images/file-5-MwNj.jpeg",
-      "description": "",
-      "occupied": "https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTxCyobEJnpLcte-37LgDJicoHeCzav2kuXalQK6QDU-kky1Eshz_6VEm0mDfwKUw/pubhtml/sheet?headers=false&gid=144343434",
-      "publishedAt": "2023-10-22T10:41:13.953Z",
-      "slug": "hausbot-navis",
-      "status": "published",
-      "title": "HAUSBOT NAVIS 32"
-    },
-    {
-      "__outstatic": {
         "commit": "d02d4bcf17d71f727713796a3218934b9dd19ff5",
         "hash": "3028179419",
         "path": "outstatic/content/ships/krajanek670.md"
@@ -111,6 +92,25 @@
       "slug": "krajanek670",
       "status": "published",
       "title": "Krajánek 670"
+    },
+    {
+      "__outstatic": {
+        "commit": "badeb24ab826d5c5b7016479938b03563ff3987b",
+        "hash": "1965441182",
+        "path": "outstatic/content/ships/hausbot-navis.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "ships",
+      "coverImage": "/images/file-5-MwNj.jpeg",
+      "description": "",
+      "occupied": "https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTymAEq0XAJtuZYvVIvsA7aWQrBmxbN1Do9aWusxsLHv21m5R-YkLrlzsLlQCrgQA/pubhtml/sheet?headers=false&gid=144343434",
+      "publishedAt": "2023-10-22T10:41:13.953Z",
+      "slug": "hausbot-navis",
+      "status": "published",
+      "title": "HAUSBÓT NAVIS"
     }
   ]
 }

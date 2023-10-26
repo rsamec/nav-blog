@@ -1,5 +1,5 @@
 ---
-title: 'HAUSBOT NAVIS 32'
+title: 'HAUSBÓT NAVIS'
 status: 'published'
 author:
   name: 'Roman Samec'
@@ -7,9 +7,11 @@ author:
 slug: 'hausbot-navis'
 description: ''
 coverImage: '/images/file-5-MwNj.jpeg'
-occupied: 'https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTxCyobEJnpLcte-37LgDJicoHeCzav2kuXalQK6QDU-kky1Eshz_6VEm0mDfwKUw/pubhtml/sheet?headers=false&gid=144343434'
+occupied: 'https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTymAEq0XAJtuZYvVIvsA7aWQrBmxbN1Do9aWusxsLHv21m5R-YkLrlzsLlQCrgQA/pubhtml/sheet?headers=false&gid=144343434'
 publishedAt: '2023-10-22T10:41:13.953Z'
 ---
+
+Ve své kategorii plavidel nabízí hausbót nezvykle velké rozměry venkovní paluby o celkové ploše 15 m2. Ubytování je ve dvou kajutách, kde se na třech dvojlůžkách vyspí pohodlně 6 osob. Domovským přístavem lodě je kemp **Popelíky na Orlíku.**
 
 **Ceník a rezervace lodě**
 
@@ -20,6 +22,4 @@ Spotřebované palivo není v ceně pronájmu a jeho úhrada probíhá po ukonč
 **Vratná kauce 15 000,- Kč**
 
 Pes, či jiné domácí zvíře na palubě – 150,-
-
-
 
