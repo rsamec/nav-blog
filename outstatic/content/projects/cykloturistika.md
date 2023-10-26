@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/5671166?v=4'
 slug: 'cykloturistika'
 description: ''
-coverImage: ''
+coverImage: '/images/bike_01-M0MD.jpg'
 publishedAt: '2023-10-26T11:33:02.314Z'
 ---
 

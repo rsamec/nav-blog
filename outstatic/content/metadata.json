@@ -1,6 +1,6 @@
 {
-  "commit": "b239355a8f62a4def4fda2687b2002b7fc4b7f5a",
-  "generated": "2023-10-26T11:38:01.267Z",
+  "commit": "7583cac70054baed4b1cfa43d9a163ef419e50d4",
+  "generated": "2023-10-26T11:38:18.872Z",
   "metadata": [
     {
       "__outstatic": {
@@ -58,24 +58,6 @@
     },
     {
       "__outstatic": {
-        "commit": "a968d9995a4933d3a80415edddeb31d880d2a377",
-        "hash": "3500947419",
-        "path": "outstatic/content/projects/cykloturistika.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-10-26T11:33:02.314Z",
-      "slug": "cykloturistika",
-      "status": "published",
-      "title": "Cykloturistika"
-    },
-    {
-      "__outstatic": {
         "commit": "31e1042f39aaf6367ec7e70e44831a633bcfb00e",
         "hash": "2747674878",
         "path": "outstatic/content/projects/hausbot.md"
@@ -109,6 +91,24 @@
       "slug": "priprava-na-pobyt",
       "status": "published",
       "title": "Příprava na pobyt"
+    },
+    {
+      "__outstatic": {
+        "commit": "7583cac70054baed4b1cfa43d9a163ef419e50d4",
+        "hash": "403836780",
+        "path": "outstatic/content/projects/cykloturistika.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "/images/bike_01-M0MD.jpg",
+      "description": "",
+      "publishedAt": "2023-10-26T11:33:02.314Z",
+      "slug": "cykloturistika",
+      "status": "published",
+      "title": "Cykloturistika"
     }
   ]
 }
