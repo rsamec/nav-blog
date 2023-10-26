@@ -5,13 +5,11 @@ author:
   name: 'Roman Samec'
   picture: 'https://avatars.githubusercontent.com/u/5671166?v=4'
 slug: 'krajanek-600'
-description: ''
+description: 'Jednoduše navržená loď pro nenáročný pár nebo skupinku přátel. Díky jejím rozměrům můžete přenocovat na jakémkoliv splavnému úseku vltavské kaskády – a to se nedá říct o každé lodi. Jednoznačná volba v poměru cena/prožitek. Domovským přístavem lodě je přehrada Orlík – Kemp Popelíky.'
 coverImage: '/images/krajanek600-A5MD.jpg'
 occupied: 'https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vQ29GwL8ZV_QrKLrOF3HPsAa1GnVTiLC9Pf_4jhbS-1UbK6d-YdjGrq_5ddueDX-Q/pubhtml/sheet?headers=false&gid=144343434'
 publishedAt: '2023-10-26T18:40:38.260Z'
 ---
-
-Jednoduše navržená loď pro nenáročný pár nebo skupinku přátel. Díky jejím rozměrům můžete přenocovat na jakémkoliv splavnému úseku vltavské kaskády – a to se nedá říct o každé lodi. Jednoznačná volba v poměru cena/prožitek.** Domovským přístavem lodě je přehrada Orlík – Kemp Popelíky.**
 
 **Ceník a rezervace lodě**
 

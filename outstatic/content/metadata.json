@@ -1,6 +1,6 @@
 {
-  "commit": "b75ebf3de929cd64b913c3e3fb11641d3f66500c",
-  "generated": "2023-10-26T18:51:26.746Z",
+  "commit": "56ec3ad2674d0804b073a3fae4cb3a861695ed1e",
+  "generated": "2023-10-26T19:40:00.274Z",
   "metadata": [
     {
       "__outstatic": {
@@ -97,25 +97,6 @@
     },
     {
       "__outstatic": {
-        "commit": "a47a4dc1d027f1d3de69caa199205d350dfbf1a5",
-        "hash": "566173633",
-        "path": "outstatic/content/ships/krajanek-600.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "ships",
-      "coverImage": "/images/krajanek600-A5MD.jpg",
-      "description": "",
-      "occupied": "https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vQ29GwL8ZV_QrKLrOF3HPsAa1GnVTiLC9Pf_4jhbS-1UbK6d-YdjGrq_5ddueDX-Q/pubhtml/sheet?headers=false&gid=144343434",
-      "publishedAt": "2023-10-26T18:40:38.260Z",
-      "slug": "krajanek-600",
-      "status": "published",
-      "title": "KRAJÁNEK 600"
-    },
-    {
-      "__outstatic": {
         "commit": "de5c44f0de0c996dbbf4ebe0b17ec4b1d0439d71",
         "hash": "1515179513",
         "path": "outstatic/content/projects/priprava-na-pobyt.md"
@@ -149,6 +130,25 @@
       "slug": "home",
       "status": "published",
       "title": "HOME"
+    },
+    {
+      "__outstatic": {
+        "commit": "56ec3ad2674d0804b073a3fae4cb3a861695ed1e",
+        "hash": "272192114",
+        "path": "outstatic/content/ships/krajanek-600.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "ships",
+      "coverImage": "/images/krajanek600-A5MD.jpg",
+      "description": "Jednoduše navržená loď pro nenáročný pár nebo skupinku přátel. Díky jejím rozměrům můžete přenocovat na jakémkoliv splavnému úseku vltavské kaskády – a to se nedá říct o každé lodi. Jednoznačná volba v poměru cena/prožitek. Domovským přístavem lodě je přehrada Orlík – Kemp Popelíky.",
+      "occupied": "https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vQ29GwL8ZV_QrKLrOF3HPsAa1GnVTiLC9Pf_4jhbS-1UbK6d-YdjGrq_5ddueDX-Q/pubhtml/sheet?headers=false&gid=144343434",
+      "publishedAt": "2023-10-26T18:40:38.260Z",
+      "slug": "krajanek-600",
+      "status": "published",
+      "title": "KRAJÁNEK 600"
     }
   ]
 }
