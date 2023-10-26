@@ -6,14 +6,12 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/5671166?v=4'
 slug: 'krajanek-672'
 description: ''
-coverImage: ''
+coverImage: '/images/krajanek672-E5Mz.jpg'
 occupied: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTDzk-BxFl7VEWSIzluwDN4IsXvVILf3r3tTaqvxJhJKMN_xYeQeLinPou1RMBbRw/pubhtml?gid=144343434&single=true'
 publishedAt: '2023-10-26T18:31:08.735Z'
 ---
 
 Větší typ lodi Krajánek 672, který navíc nabízí prostornější kajutu, vnitřní kormidelnu, a především větší opalovací palubu na přídi. Domovským přístavem lodě je **přehrada Orlík – Kemp Popelíky**.
-
-
 
 **Ceník a rezervace lodě**
 

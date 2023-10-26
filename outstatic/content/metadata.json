@@ -1,6 +1,6 @@
 {
-  "commit": "c1d2945debcb7b8373942bf569cda659660ed04b",
-  "generated": "2023-10-26T18:30:43.510Z",
+  "commit": "eacd65ce65595bb002fdac004c634d290d04c5fd",
+  "generated": "2023-10-26T18:32:18.350Z",
   "metadata": [
     {
       "__outstatic": {
@@ -37,25 +37,6 @@
       "slug": "cykloturistika",
       "status": "published",
       "title": "Cykloturistika"
-    },
-    {
-      "__outstatic": {
-        "commit": "898ffbfaa4bb2e9cc2b21a713d5336559347bd31",
-        "hash": "869324911",
-        "path": "outstatic/content/ships/krajanek-672.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "ships",
-      "coverImage": "",
-      "description": "",
-      "occupied": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTDzk-BxFl7VEWSIzluwDN4IsXvVILf3r3tTaqvxJhJKMN_xYeQeLinPou1RMBbRw/pubhtml?gid=144343434&single=true",
-      "publishedAt": "2023-10-26T18:31:08.735Z",
-      "slug": "krajanek-672",
-      "status": "published",
-      "title": "KRAJÁNEK 672"
     },
     {
       "__outstatic": {
@@ -149,6 +130,25 @@
       "slug": "krajanek670",
       "status": "published",
       "title": "KRAJÁNEK 670"
+    },
+    {
+      "__outstatic": {
+        "commit": "eacd65ce65595bb002fdac004c634d290d04c5fd",
+        "hash": "952081284",
+        "path": "outstatic/content/ships/krajanek-672.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "ships",
+      "coverImage": "/images/krajanek672-E5Mz.jpg",
+      "description": "",
+      "occupied": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTDzk-BxFl7VEWSIzluwDN4IsXvVILf3r3tTaqvxJhJKMN_xYeQeLinPou1RMBbRw/pubhtml?gid=144343434&single=true",
+      "publishedAt": "2023-10-26T18:31:08.735Z",
+      "slug": "krajanek-672",
+      "status": "published",
+      "title": "KRAJÁNEK 672"
     }
   ]
 }
