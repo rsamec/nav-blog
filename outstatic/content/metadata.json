@@ -1,6 +1,6 @@
 {
-  "commit": "362bbedcb0141bae92aea368b1117076abded0a0",
-  "generated": "Thu, 26 Oct 2023 10:32:50 GMT",
+  "commit": "ab03e248599262ca0a81dac3ca7c0d5d40f72aef",
+  "generated": "Thu, 26 Oct 2023 10:34:06 GMT",
   "metadata": [
     {
       "__outstatic": {
@@ -19,24 +19,6 @@
       "slug": "hausbot-navis",
       "status": "published",
       "title": "HAUSBOT NAVIS 32"
-    },
-    {
-      "__outstatic": {
-        "commit": "6aa79a6e1eb1a357aa2f10088f0116232e8e97ac",
-        "hash": "1406472189",
-        "path": "outstatic/content/ships/krajanek.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "ships",
-      "coverImage": "/images/file4-EyNz.jpeg",
-      "description": "",
-      "publishedAt": "2023-10-20T19:26:23.955Z",
-      "slug": "krajanek",
-      "status": "published",
-      "title": "Krajánek"
     }
   ]
 }
