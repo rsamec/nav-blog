@@ -1,24 +1,24 @@
 {
-  "commit": "19bdf044d6eb4204af8cab4a9172b56fb6280a97",
-  "generated": "2023-10-26T11:23:58.086Z",
+  "commit": "447bb31ec7784b9b4435c1aa2a7789cad85cf0b3",
+  "generated": "Thu, 26 Oct 2023 11:24:14 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "6aa79a6e1eb1a357aa2f10088f0116232e8e97ac",
-        "hash": "1406472189",
-        "path": "outstatic/content/ships/krajanek.md"
+        "commit": "81c4fe3f0b6fb096da308bd6b597c15998e0dc6e",
+        "hash": "2391275965",
+        "path": "outstatic/content/pages/home.md"
       },
       "author": {
         "name": "Roman Samec",
         "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
       },
-      "collection": "ships",
-      "coverImage": "/images/file4-EyNz.jpeg",
+      "collection": "pages",
+      "coverImage": "",
       "description": "",
-      "publishedAt": "2023-10-20T19:26:23.955Z",
-      "slug": "krajanek",
+      "publishedAt": "2023-10-26T10:47:32.499Z",
+      "slug": "home",
       "status": "published",
-      "title": "Krajánek"
+      "title": "HOME"
     },
     {
       "__outstatic": {
@@ -40,43 +40,7 @@
     },
     {
       "__outstatic": {
-        "commit": "55c20ce7b1ba78c06b89a2c44d416e47088a50ab",
-        "hash": "2391275965",
-        "path": "outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-10-26T10:47:32.499Z",
-      "slug": "home",
-      "status": "published",
-      "title": "HOME"
-    },
-    {
-      "__outstatic": {
-        "commit": "49159a2ada1e2be807e43a2692a124e36081a48c",
-        "hash": "3500947419",
-        "path": "outstatic/content/projects/cykloturistika.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-10-26T11:33:02.314Z",
-      "slug": "cykloturistika",
-      "status": "published",
-      "title": "Cykloturistika"
-    },
-    {
-      "__outstatic": {
-        "commit": "5b94691a37658400fb52b636a6784629091458f6",
+        "commit": "a1220ea56643904fc9bf974adb10cee02bdca628",
         "hash": "148282003",
         "path": "outstatic/content/projects/priprava-na-pobyt.md"
       },
@@ -94,7 +58,7 @@
     },
     {
       "__outstatic": {
-        "commit": "19bdf044d6eb4204af8cab4a9172b56fb6280a97",
+        "commit": "bb2e7b0f7d54e868820f80c0fd111c8a90fdd702",
         "hash": "271495420",
         "path": "outstatic/content/projects/hausbot.md"
       },
@@ -109,6 +73,42 @@
       "slug": "hausbot",
       "status": "published",
       "title": "Hausbot"
+    },
+    {
+      "__outstatic": {
+        "commit": "6aa79a6e1eb1a357aa2f10088f0116232e8e97ac",
+        "hash": "1406472189",
+        "path": "outstatic/content/ships/krajanek.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "ships",
+      "coverImage": "/images/file4-EyNz.jpeg",
+      "description": "",
+      "publishedAt": "2023-10-20T19:26:23.955Z",
+      "slug": "krajanek",
+      "status": "published",
+      "title": "Krajánek"
+    },
+    {
+      "__outstatic": {
+        "commit": "a968d9995a4933d3a80415edddeb31d880d2a377",
+        "hash": "3500947419",
+        "path": "outstatic/content/projects/cykloturistika.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-10-26T11:33:02.314Z",
+      "slug": "cykloturistika",
+      "status": "published",
+      "title": "Cykloturistika"
     }
   ]
 }
