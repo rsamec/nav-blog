@@ -1,6 +1,6 @@
 {
-  "commit": "8ed99b006c454ef038c975e29e6cd0e81780cf6b",
-  "generated": "Thu, 26 Oct 2023 10:34:29 GMT",
+  "commit": "6e2eebb5f41a9186f444c90cb91e0f804c14070c",
+  "generated": "2023-10-26T10:36:10.610Z",
   "metadata": [
     {
       "__outstatic": {
@@ -37,6 +37,24 @@
       "slug": "hausbot-navis",
       "status": "published",
       "title": "HAUSBOT NAVIS 32"
+    },
+    {
+      "__outstatic": {
+        "commit": "6e2eebb5f41a9186f444c90cb91e0f804c14070c",
+        "hash": "286410621",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-10-26T10:47:32.499Z",
+      "slug": "home",
+      "status": "draft",
+      "title": "Home"
     }
   ]
 }
