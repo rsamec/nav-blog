@@ -1,6 +1,6 @@
 {
-  "commit": "11d438fe762174847f3e2dcd8df11eda0af0928f",
-  "generated": "2023-10-26T19:42:46.934Z",
+  "commit": "b5a33e5b0a8adb9cb19faaaff06c283e46b0fd35",
+  "generated": "2023-10-26T19:43:28.267Z",
   "metadata": [
     {
       "__outstatic": {
@@ -58,25 +58,6 @@
     },
     {
       "__outstatic": {
-        "commit": "2c58276da6c5fc71d9acc2e51229fe606bb60831",
-        "hash": "3244019787",
-        "path": "outstatic/content/ships/krajanek-672.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "ships",
-      "coverImage": "/images/krajanek672-U0ND.jpg",
-      "description": "",
-      "occupied": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTDzk-BxFl7VEWSIzluwDN4IsXvVILf3r3tTaqvxJhJKMN_xYeQeLinPou1RMBbRw/pubhtml?gid=144343434&single=true",
-      "publishedAt": "2023-10-26T18:31:08.735Z",
-      "slug": "krajanek-672",
-      "status": "published",
-      "title": "KRAJÁNEK 672"
-    },
-    {
-      "__outstatic": {
         "commit": "6841149e581e48042df5cab16823d035448b111f",
         "hash": "1965441182",
         "path": "outstatic/content/ships/hausbot-navis.md"
@@ -130,6 +111,25 @@
       "slug": "krajanek-600",
       "status": "published",
       "title": "KRAJÁNEK 600"
+    },
+    {
+      "__outstatic": {
+        "commit": "b5a33e5b0a8adb9cb19faaaff06c283e46b0fd35",
+        "hash": "58217937",
+        "path": "outstatic/content/ships/krajanek-672.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "ships",
+      "coverImage": "/images/krajanek672-U0ND.jpg",
+      "description": "Větší typ lodi Krajánek 672, který navíc nabízí prostornější kajutu, vnitřní kormidelnu, a především větší opalovací palubu na přídi.",
+      "occupied": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTDzk-BxFl7VEWSIzluwDN4IsXvVILf3r3tTaqvxJhJKMN_xYeQeLinPou1RMBbRw/pubhtml?gid=144343434&single=true",
+      "publishedAt": "2023-10-26T18:31:08.735Z",
+      "slug": "krajanek-672",
+      "status": "published",
+      "title": "KRAJÁNEK 672"
     }
   ]
 }
