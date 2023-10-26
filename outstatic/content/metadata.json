@@ -1,6 +1,6 @@
 {
-  "commit": "55c20ce7b1ba78c06b89a2c44d416e47088a50ab",
-  "generated": "2023-10-26T10:45:26.703Z",
+  "commit": "49159a2ada1e2be807e43a2692a124e36081a48c",
+  "generated": "2023-10-26T11:22:16.309Z",
   "metadata": [
     {
       "__outstatic": {
@@ -55,6 +55,24 @@
       "slug": "home",
       "status": "published",
       "title": "HOME"
+    },
+    {
+      "__outstatic": {
+        "commit": "49159a2ada1e2be807e43a2692a124e36081a48c",
+        "hash": "3500947419",
+        "path": "outstatic/content/projects/cykloturistika.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-10-26T11:33:02.314Z",
+      "slug": "cykloturistika",
+      "status": "published",
+      "title": "Cykloturistika"
     }
   ]
 }
