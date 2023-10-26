@@ -1,6 +1,6 @@
 {
   "commit": "0c471864c66ac923c56a417809cc2e47f518dda0",
-  "generated": "2023-10-26T10:36:13.443Z",
+  "generated": "2023-10-26T10:36:17.283Z",
   "metadata": [
     {
       "__outstatic": {
@@ -41,7 +41,7 @@
     {
       "__outstatic": {
         "commit": "0c471864c66ac923c56a417809cc2e47f518dda0",
-        "hash": "286410621",
+        "hash": "2125401390",
         "path": "outstatic/content/pages/home.md"
       },
       "author": {
@@ -53,7 +53,7 @@
       "description": "",
       "publishedAt": "2023-10-26T10:47:32.499Z",
       "slug": "home",
-      "status": "draft",
+      "status": "published",
       "title": "Home"
     }
   ]
