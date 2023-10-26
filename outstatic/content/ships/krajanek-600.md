@@ -13,11 +13,15 @@ publishedAt: '2023-10-26T18:40:38.260Z'
 
 Domovským přístavem lodě je **přehrada Orlík – Kemp Popelíky**.
 
+
+
 **Ceník a rezervace lodě**
 
 Pobyty jsou členěny na tzv. „mini-týden“ a „víkend“ (lze spojit v týdenní pobyt)
 
 Spotřebované palivo není v ceně pronájmu a jeho úhrada probíhá po ukončení plavby (na 3 – 4 denní pobyt zhruba 600 – 900 Kč)
+
+
 
 **Vratná kauce 3000,- Kč**
 

@@ -1,6 +1,6 @@
 {
-  "commit": "d6791eada4731eade6a33daad60d6448f17eba66",
-  "generated": "Thu, 26 Oct 2023 19:45:52 GMT",
+  "commit": "775dea3582b45e49b9bf9c1a9988a90f4b101e16",
+  "generated": "2023-10-26T19:49:48.181Z",
   "metadata": [
     {
       "__outstatic": {
@@ -96,25 +96,6 @@
     },
     {
       "__outstatic": {
-        "commit": "bb2da5ec8789514510cd1ebec66f429a21fb6ab2",
-        "hash": "3521269641",
-        "path": "outstatic/content/ships/krajanek-600.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "ships",
-      "coverImage": "/images/krajanek600-A5MD.jpg",
-      "description": "Jednoduše navržená loď pro nenáročný pár nebo skupinku přátel. Díky jejím rozměrům můžete přenocovat na jakémkoliv splavnému úseku vltavské kaskády – a to se nedá říct o každé lodi.",
-      "occupied": "https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vQ29GwL8ZV_QrKLrOF3HPsAa1GnVTiLC9Pf_4jhbS-1UbK6d-YdjGrq_5ddueDX-Q/pubhtml/sheet?headers=false&gid=144343434",
-      "publishedAt": "2023-10-26T18:40:38.260Z",
-      "slug": "krajanek-600",
-      "status": "published",
-      "title": "KRAJÁNEK 600"
-    },
-    {
-      "__outstatic": {
         "commit": "7a6134fdadc3da59052a2676a61b842428bb398c",
         "hash": "1842742863",
         "path": "outstatic/content/ships/hausbot-navis.md"
@@ -149,6 +130,25 @@
       "slug": "priprava-na-pobyt",
       "status": "published",
       "title": "Příprava na pobyt"
+    },
+    {
+      "__outstatic": {
+        "commit": "775dea3582b45e49b9bf9c1a9988a90f4b101e16",
+        "hash": "2948525265",
+        "path": "outstatic/content/ships/krajanek-600.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "ships",
+      "coverImage": "/images/krajanek600-A5MD.jpg",
+      "description": "Jednoduše navržená loď pro nenáročný pár nebo skupinku přátel. Díky jejím rozměrům můžete přenocovat na jakémkoliv splavnému úseku vltavské kaskády – a to se nedá říct o každé lodi.",
+      "occupied": "https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vQ29GwL8ZV_QrKLrOF3HPsAa1GnVTiLC9Pf_4jhbS-1UbK6d-YdjGrq_5ddueDX-Q/pubhtml/sheet?headers=false&gid=144343434",
+      "publishedAt": "2023-10-26T18:40:38.260Z",
+      "slug": "krajanek-600",
+      "status": "published",
+      "title": "KRAJÁNEK 600"
     }
   ]
 }
