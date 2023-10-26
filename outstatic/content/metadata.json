@@ -1,25 +1,7 @@
 {
-  "commit": "db7473d754dbf4f77a4ad746142173a913a51070",
-  "generated": "Thu, 26 Oct 2023 20:22:29 GMT",
+  "commit": "3705f0bef45c619aee58da2e59c68fbff14090df",
+  "generated": "2023-10-26T20:35:09.008Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "1397fad094a8b887090e7f16fd356d2bace9c305",
-        "hash": "1365226171",
-        "path": "outstatic/content/projects/hausbot.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "/images/hausboat-Q5OT.jpeg",
-      "description": "",
-      "publishedAt": "2023-10-26T11:35:27.771Z",
-      "slug": "hausbot",
-      "status": "published",
-      "title": "Hausbot"
-    },
     {
       "__outstatic": {
         "commit": "1c6d13a7216c29d86ab7abcbfab7f6879dfc201c",
@@ -149,6 +131,24 @@
       "slug": "priprava-na-pobyt",
       "status": "published",
       "title": "Příprava na pobyt"
+    },
+    {
+      "__outstatic": {
+        "commit": "3705f0bef45c619aee58da2e59c68fbff14090df",
+        "hash": "2851073992",
+        "path": "outstatic/content/projects/hausbot.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "/images/hausboat-Q5OT.jpeg",
+      "description": "",
+      "publishedAt": "2023-10-26T11:35:27.771Z",
+      "slug": "hausbot",
+      "status": "published",
+      "title": "Hausbot"
     }
   ]
 }

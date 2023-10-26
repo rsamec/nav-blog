@@ -10,7 +10,7 @@ coverImage: '/images/hausboat-Q5OT.jpeg'
 publishedAt: '2023-10-26T11:35:27.771Z'
 ---
 
-## Hausbót nebo Obytná loď
+### Hausbót nebo Obytná loď
 
 - Před vlastním výběrem lodě by jste měli zvážit očekávaný charakter pobytu, zda jedete s dětmi, délku pobytu, počet osob (zda využíváte plnou kapacitu obsazenosti) a jestli si např. chcete vzít s sebou na loď i jízdní kola. Přečtěte si níže uvedené rady a podle nich vybírejte plavidlo.
 
