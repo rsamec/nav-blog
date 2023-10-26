@@ -1,6 +1,6 @@
 {
-  "commit": "7583cac70054baed4b1cfa43d9a163ef419e50d4",
-  "generated": "2023-10-26T11:38:18.872Z",
+  "commit": "f963b5b2d20ced703a6d9316c40d7391dfde8a68",
+  "generated": "Thu, 26 Oct 2023 11:38:41 GMT",
   "metadata": [
     {
       "__outstatic": {
@@ -22,24 +22,6 @@
     },
     {
       "__outstatic": {
-        "commit": "fa2c1a85ca501588bb2e7c5eee10a72c77cd4099",
-        "hash": "3741223845",
-        "path": "outstatic/content/ships/hausbot-navis.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "ships",
-      "coverImage": "/images/file-5-MwNj.jpeg",
-      "description": "",
-      "publishedAt": "2023-10-22T10:41:13.953Z",
-      "slug": "hausbot-navis",
-      "status": "published",
-      "title": "HAUSBOT NAVIS 32"
-    },
-    {
-      "__outstatic": {
         "commit": "6aa79a6e1eb1a357aa2f10088f0116232e8e97ac",
         "hash": "1406472189",
         "path": "outstatic/content/ships/krajanek.md"
@@ -58,25 +40,25 @@
     },
     {
       "__outstatic": {
-        "commit": "31e1042f39aaf6367ec7e70e44831a633bcfb00e",
-        "hash": "2747674878",
-        "path": "outstatic/content/projects/hausbot.md"
+        "commit": "fa2c1a85ca501588bb2e7c5eee10a72c77cd4099",
+        "hash": "3741223845",
+        "path": "outstatic/content/ships/hausbot-navis.md"
       },
       "author": {
         "name": "Roman Samec",
         "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
       },
-      "collection": "projects",
-      "coverImage": "/images/hausboat-Q5OT.jpeg",
+      "collection": "ships",
+      "coverImage": "/images/file-5-MwNj.jpeg",
       "description": "",
-      "publishedAt": "2023-10-26T11:35:27.771Z",
-      "slug": "hausbot",
+      "publishedAt": "2023-10-22T10:41:13.953Z",
+      "slug": "hausbot-navis",
       "status": "published",
-      "title": "Hausbot"
+      "title": "HAUSBOT NAVIS 32"
     },
     {
       "__outstatic": {
-        "commit": "b239355a8f62a4def4fda2687b2002b7fc4b7f5a",
+        "commit": "de5c44f0de0c996dbbf4ebe0b17ec4b1d0439d71",
         "hash": "1515179513",
         "path": "outstatic/content/projects/priprava-na-pobyt.md"
       },
@@ -94,7 +76,25 @@
     },
     {
       "__outstatic": {
-        "commit": "7583cac70054baed4b1cfa43d9a163ef419e50d4",
+        "commit": "c8c37dcf5179db1c5091d63fc6bc3619723f1f8d",
+        "hash": "2747674878",
+        "path": "outstatic/content/projects/hausbot.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "/images/hausboat-Q5OT.jpeg",
+      "description": "",
+      "publishedAt": "2023-10-26T11:35:27.771Z",
+      "slug": "hausbot",
+      "status": "published",
+      "title": "Hausbot"
+    },
+    {
+      "__outstatic": {
+        "commit": "1c6d13a7216c29d86ab7abcbfab7f6879dfc201c",
         "hash": "403836780",
         "path": "outstatic/content/projects/cykloturistika.md"
       },
