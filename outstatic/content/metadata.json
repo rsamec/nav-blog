@@ -1,7 +1,25 @@
 {
-  "commit": "ab03e248599262ca0a81dac3ca7c0d5d40f72aef",
-  "generated": "Thu, 26 Oct 2023 10:34:06 GMT",
+  "commit": "8ed99b006c454ef038c975e29e6cd0e81780cf6b",
+  "generated": "Thu, 26 Oct 2023 10:34:29 GMT",
   "metadata": [
+    {
+      "__outstatic": {
+        "commit": "6aa79a6e1eb1a357aa2f10088f0116232e8e97ac",
+        "hash": "1406472189",
+        "path": "outstatic/content/ships/krajanek.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "ships",
+      "coverImage": "/images/file4-EyNz.jpeg",
+      "description": "",
+      "publishedAt": "2023-10-20T19:26:23.955Z",
+      "slug": "krajanek",
+      "status": "published",
+      "title": "Krajánek"
+    },
     {
       "__outstatic": {
         "commit": "fa2c1a85ca501588bb2e7c5eee10a72c77cd4099",
