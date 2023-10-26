@@ -1,6 +1,6 @@
 {
-  "commit": "0dd64f990d2cd616f3b249f04e20c2f9a3ebfddd",
-  "generated": "Thu, 26 Oct 2023 18:26:08 GMT",
+  "commit": "e9911b970e322f92fcd7493dadad74895a79625e",
+  "generated": "2023-10-26T18:30:11.921Z",
   "metadata": [
     {
       "__outstatic": {
@@ -130,6 +130,25 @@
       "slug": "hausbot",
       "status": "published",
       "title": "Hausbot"
+    },
+    {
+      "__outstatic": {
+        "commit": "e9911b970e322f92fcd7493dadad74895a79625e",
+        "hash": "566173633",
+        "path": "outstatic/content/ships/krajanek-600.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "ships",
+      "coverImage": "/images/krajanek600-A5MD.jpg",
+      "description": "",
+      "occupied": "https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vQ29GwL8ZV_QrKLrOF3HPsAa1GnVTiLC9Pf_4jhbS-1UbK6d-YdjGrq_5ddueDX-Q/pubhtml/sheet?headers=false&gid=144343434",
+      "publishedAt": "2023-10-26T18:40:38.260Z",
+      "slug": "krajanek-600",
+      "status": "published",
+      "title": "KRAJÁNEK 600"
     }
   ]
 }
