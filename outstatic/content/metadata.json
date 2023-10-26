@@ -1,6 +1,6 @@
 {
-  "commit": "cafaa3375f901dff2de62c40c0faa4c7b033b214",
-  "generated": "2023-10-26T19:44:35.549Z",
+  "commit": "9daf6083e4ba9af84876960ded0ba7071b13a8aa",
+  "generated": "2023-10-26T19:45:24.930Z",
   "metadata": [
     {
       "__outstatic": {
@@ -130,6 +130,25 @@
       "slug": "hausbot-navis",
       "status": "published",
       "title": "HAUSBÓT NAVIS"
+    },
+    {
+      "__outstatic": {
+        "commit": "9daf6083e4ba9af84876960ded0ba7071b13a8aa",
+        "hash": "2496563907",
+        "path": "outstatic/content/ships/krajanek670.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "ships",
+      "coverImage": "/images/file4-EyNz.jpeg",
+      "description": "Větší typ lodi Krajánek 600, který navíc nabízí prostornější kajutu, vnitřní kormidelnu, a především větší opalovací palubu na přídi. ",
+      "occupied": "https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTxCyobEJnpLcte-37LgDJicoHeCzav2kuXalQK6QDU-kky1Eshz_6VEm0mDfwKUw/pubhtml/sheet?headers=false&gid=144343434",
+      "publishedAt": "2023-10-20T19:26:23.955Z",
+      "slug": "krajanek670",
+      "status": "published",
+      "title": "KRAJÁNEK 670"
     }
   ]
 }

@@ -5,13 +5,13 @@ author:
   name: 'Roman Samec'
   picture: 'https://avatars.githubusercontent.com/u/5671166?v=4'
 slug: 'krajanek670'
-description: ''
+description: 'Větší typ lodi Krajánek 600, který navíc nabízí prostornější kajutu, vnitřní kormidelnu, a především větší opalovací palubu na přídi. '
 coverImage: '/images/file4-EyNz.jpeg'
 occupied: 'https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTxCyobEJnpLcte-37LgDJicoHeCzav2kuXalQK6QDU-kky1Eshz_6VEm0mDfwKUw/pubhtml/sheet?headers=false&gid=144343434'
 publishedAt: '2023-10-20T19:26:23.955Z'
 ---
 
-Větší typ lodi Krajánek 600, který navíc nabízí prostornější kajutu, vnitřní kormidelnu, a především větší opalovací palubu na přídi. Domovským přístavem lodě je **přehrada Orlík – Kemp Popelíky**.
+Domovským přístavem lodě je **přehrada Orlík – Kemp Popelíky**.
 
 ## **Ceník a rezervace lodě**
 
