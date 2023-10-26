@@ -1,6 +1,6 @@
 {
   "commit": "eacd65ce65595bb002fdac004c634d290d04c5fd",
-  "generated": "2023-10-26T18:32:18.350Z",
+  "generated": "2023-10-26T18:32:36.765Z",
   "metadata": [
     {
       "__outstatic": {
@@ -134,7 +134,7 @@
     {
       "__outstatic": {
         "commit": "eacd65ce65595bb002fdac004c634d290d04c5fd",
-        "hash": "952081284",
+        "hash": "3244019787",
         "path": "outstatic/content/ships/krajanek-672.md"
       },
       "author": {
@@ -142,7 +142,7 @@
         "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
       },
       "collection": "ships",
-      "coverImage": "/images/krajanek672-E5Mz.jpg",
+      "coverImage": "/images/krajanek672-U0ND.jpg",
       "description": "",
       "occupied": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTDzk-BxFl7VEWSIzluwDN4IsXvVILf3r3tTaqvxJhJKMN_xYeQeLinPou1RMBbRw/pubhtml?gid=144343434&single=true",
       "publishedAt": "2023-10-26T18:31:08.735Z",
