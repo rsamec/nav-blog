@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/5671166?v=4'
 slug: 'priprava-na-pobyt'
 description: ''
-coverImage: ''
+coverImage: '/images/trip-E3OD.jpg'
 publishedAt: '2023-10-26T11:34:31.607Z'
 ---
 
@@ -43,8 +43,6 @@ Většina provozovatelů pobyt zvířete na palubě umožňuje. Vždy je vhodné
 ## Parkování automobilu
 
 Během Vašeho pobytu na lodi můžete nechat automobil zaparkovaný bezpečně v areálu přístaviště. Většina přístavišť nabízí pro klienty parkování zdarma. Na opačnou skutečnost budete vždy předem upozorněni.
-
-
 
 ## Obsluha plavidla
 

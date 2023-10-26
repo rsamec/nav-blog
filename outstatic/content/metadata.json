@@ -1,6 +1,6 @@
 {
-  "commit": "31e1042f39aaf6367ec7e70e44831a633bcfb00e",
-  "generated": "2023-10-26T11:37:44.053Z",
+  "commit": "b239355a8f62a4def4fda2687b2002b7fc4b7f5a",
+  "generated": "2023-10-26T11:38:01.267Z",
   "metadata": [
     {
       "__outstatic": {
@@ -37,24 +37,6 @@
       "slug": "hausbot-navis",
       "status": "published",
       "title": "HAUSBOT NAVIS 32"
-    },
-    {
-      "__outstatic": {
-        "commit": "a1220ea56643904fc9bf974adb10cee02bdca628",
-        "hash": "148282003",
-        "path": "outstatic/content/projects/priprava-na-pobyt.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-10-26T11:34:31.607Z",
-      "slug": "priprava-na-pobyt",
-      "status": "published",
-      "title": "Příprava na pobyt"
     },
     {
       "__outstatic": {
@@ -109,6 +91,24 @@
       "slug": "hausbot",
       "status": "published",
       "title": "Hausbot"
+    },
+    {
+      "__outstatic": {
+        "commit": "b239355a8f62a4def4fda2687b2002b7fc4b7f5a",
+        "hash": "1515179513",
+        "path": "outstatic/content/projects/priprava-na-pobyt.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "/images/trip-E3OD.jpg",
+      "description": "",
+      "publishedAt": "2023-10-26T11:34:31.607Z",
+      "slug": "priprava-na-pobyt",
+      "status": "published",
+      "title": "Příprava na pobyt"
     }
   ]
 }
