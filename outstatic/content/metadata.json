@@ -1,25 +1,7 @@
 {
-  "commit": "758e4fec133a7882994ae7b6daca6bf0de2a571e",
-  "generated": "Thu, 26 Oct 2023 20:08:55 GMT",
+  "commit": "50385273469063acfdc2a80f4b54c6826dcbe16c",
+  "generated": "2023-10-26T20:22:10.890Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "c8c37dcf5179db1c5091d63fc6bc3619723f1f8d",
-        "hash": "2747674878",
-        "path": "outstatic/content/projects/hausbot.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "/images/hausboat-Q5OT.jpeg",
-      "description": "",
-      "publishedAt": "2023-10-26T11:35:27.771Z",
-      "slug": "hausbot",
-      "status": "published",
-      "title": "Hausbot"
-    },
     {
       "__outstatic": {
         "commit": "1c6d13a7216c29d86ab7abcbfab7f6879dfc201c",
@@ -111,6 +93,24 @@
       "slug": "hausbot-navis",
       "status": "published",
       "title": "HAUSBÓT NAVIS"
+    },
+    {
+      "__outstatic": {
+        "commit": "50385273469063acfdc2a80f4b54c6826dcbe16c",
+        "hash": "1365226171",
+        "path": "outstatic/content/projects/hausbot.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "/images/hausboat-Q5OT.jpeg",
+      "description": "",
+      "publishedAt": "2023-10-26T11:35:27.771Z",
+      "slug": "hausbot",
+      "status": "published",
+      "title": "Hausbot"
     }
   ]
 }
