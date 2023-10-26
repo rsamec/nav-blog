@@ -1,6 +1,6 @@
 {
-  "commit": "4bbc586cdda037eb19c3a6881a53d0c664964dd6",
-  "generated": "2023-10-26T18:22:46.947Z",
+  "commit": "0dd64f990d2cd616f3b249f04e20c2f9a3ebfddd",
+  "generated": "Thu, 26 Oct 2023 18:26:08 GMT",
   "metadata": [
     {
       "__outstatic": {
@@ -19,6 +19,24 @@
       "slug": "home",
       "status": "published",
       "title": "HOME"
+    },
+    {
+      "__outstatic": {
+        "commit": "1c6d13a7216c29d86ab7abcbfab7f6879dfc201c",
+        "hash": "403836780",
+        "path": "outstatic/content/projects/cykloturistika.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "/images/bike_01-M0MD.jpg",
+      "description": "",
+      "publishedAt": "2023-10-26T11:33:02.314Z",
+      "slug": "cykloturistika",
+      "status": "published",
+      "title": "Cykloturistika"
     },
     {
       "__outstatic": {
@@ -41,21 +59,40 @@
     },
     {
       "__outstatic": {
-        "commit": "c8c37dcf5179db1c5091d63fc6bc3619723f1f8d",
-        "hash": "2747674878",
-        "path": "outstatic/content/projects/hausbot.md"
+        "commit": "898ffbfaa4bb2e9cc2b21a713d5336559347bd31",
+        "hash": "869324911",
+        "path": "outstatic/content/ships/krajanek-672.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "ships",
+      "coverImage": "",
+      "description": "",
+      "occupied": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTDzk-BxFl7VEWSIzluwDN4IsXvVILf3r3tTaqvxJhJKMN_xYeQeLinPou1RMBbRw/pubhtml?gid=144343434&single=true",
+      "publishedAt": "2023-10-26T18:31:08.735Z",
+      "slug": "krajanek-672",
+      "status": "published",
+      "title": "KRAJÁNEK 672"
+    },
+    {
+      "__outstatic": {
+        "commit": "de5c44f0de0c996dbbf4ebe0b17ec4b1d0439d71",
+        "hash": "1515179513",
+        "path": "outstatic/content/projects/priprava-na-pobyt.md"
       },
       "author": {
         "name": "Roman Samec",
         "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
       },
       "collection": "projects",
-      "coverImage": "/images/hausboat-Q5OT.jpeg",
+      "coverImage": "/images/trip-E3OD.jpg",
       "description": "",
-      "publishedAt": "2023-10-26T11:35:27.771Z",
-      "slug": "hausbot",
+      "publishedAt": "2023-10-26T11:34:31.607Z",
+      "slug": "priprava-na-pobyt",
       "status": "published",
-      "title": "Hausbot"
+      "title": "Příprava na pobyt"
     },
     {
       "__outstatic": {
@@ -78,58 +115,21 @@
     },
     {
       "__outstatic": {
-        "commit": "de5c44f0de0c996dbbf4ebe0b17ec4b1d0439d71",
-        "hash": "1515179513",
-        "path": "outstatic/content/projects/priprava-na-pobyt.md"
+        "commit": "c8c37dcf5179db1c5091d63fc6bc3619723f1f8d",
+        "hash": "2747674878",
+        "path": "outstatic/content/projects/hausbot.md"
       },
       "author": {
         "name": "Roman Samec",
         "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
       },
       "collection": "projects",
-      "coverImage": "/images/trip-E3OD.jpg",
+      "coverImage": "/images/hausboat-Q5OT.jpeg",
       "description": "",
-      "publishedAt": "2023-10-26T11:34:31.607Z",
-      "slug": "priprava-na-pobyt",
+      "publishedAt": "2023-10-26T11:35:27.771Z",
+      "slug": "hausbot",
       "status": "published",
-      "title": "Příprava na pobyt"
-    },
-    {
-      "__outstatic": {
-        "commit": "1c6d13a7216c29d86ab7abcbfab7f6879dfc201c",
-        "hash": "403836780",
-        "path": "outstatic/content/projects/cykloturistika.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "/images/bike_01-M0MD.jpg",
-      "description": "",
-      "publishedAt": "2023-10-26T11:33:02.314Z",
-      "slug": "cykloturistika",
-      "status": "published",
-      "title": "Cykloturistika"
-    },
-    {
-      "__outstatic": {
-        "commit": "4bbc586cdda037eb19c3a6881a53d0c664964dd6",
-        "hash": "869324911",
-        "path": "outstatic/content/ships/krajanek-672.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "ships",
-      "coverImage": "",
-      "description": "",
-      "occupied": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTDzk-BxFl7VEWSIzluwDN4IsXvVILf3r3tTaqvxJhJKMN_xYeQeLinPou1RMBbRw/pubhtml?gid=144343434&single=true",
-      "publishedAt": "2023-10-26T18:31:08.735Z",
-      "slug": "krajanek-672",
-      "status": "published",
-      "title": "KRAJÁNEK 672"
+      "title": "Hausbot"
     }
   ]
 }
