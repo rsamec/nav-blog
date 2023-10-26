@@ -1,6 +1,6 @@
 {
-  "commit": "775dea3582b45e49b9bf9c1a9988a90f4b101e16",
-  "generated": "2023-10-26T19:49:48.181Z",
+  "commit": "4e3ee9a9cc01657aedc3ec3054907518eb21f194",
+  "generated": "2023-10-26T20:08:49.235Z",
   "metadata": [
     {
       "__outstatic": {
@@ -133,7 +133,7 @@
     },
     {
       "__outstatic": {
-        "commit": "775dea3582b45e49b9bf9c1a9988a90f4b101e16",
+        "commit": "4e3ee9a9cc01657aedc3ec3054907518eb21f194",
         "hash": "2948525265",
         "path": "outstatic/content/ships/krajanek-600.md"
       },
