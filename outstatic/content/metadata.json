@@ -1,25 +1,7 @@
 {
-  "commit": "f963b5b2d20ced703a6d9316c40d7391dfde8a68",
-  "generated": "Thu, 26 Oct 2023 11:38:41 GMT",
+  "commit": "9168b91c3a9789e1019caf08c00718d7cc5fee75",
+  "generated": "2023-10-26T15:40:08.825Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "81c4fe3f0b6fb096da308bd6b597c15998e0dc6e",
-        "hash": "2391275965",
-        "path": "outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-10-26T10:47:32.499Z",
-      "slug": "home",
-      "status": "published",
-      "title": "HOME"
-    },
     {
       "__outstatic": {
         "commit": "6aa79a6e1eb1a357aa2f10088f0116232e8e97ac",
@@ -109,6 +91,24 @@
       "slug": "cykloturistika",
       "status": "published",
       "title": "Cykloturistika"
+    },
+    {
+      "__outstatic": {
+        "commit": "9168b91c3a9789e1019caf08c00718d7cc5fee75",
+        "hash": "2391275965",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-10-26T10:47:32.499Z",
+      "slug": "home",
+      "status": "published",
+      "title": "HOME"
     }
   ]
 }
