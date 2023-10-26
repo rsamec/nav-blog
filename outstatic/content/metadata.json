@@ -1,24 +1,24 @@
 {
-  "commit": "9daf6083e4ba9af84876960ded0ba7071b13a8aa",
-  "generated": "2023-10-26T19:45:24.930Z",
+  "commit": "d6791eada4731eade6a33daad60d6448f17eba66",
+  "generated": "Thu, 26 Oct 2023 19:45:29 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "f09655ad2a4530f34520de8aaa6fa9675c531a18",
-        "hash": "2314791218",
-        "path": "outstatic/content/pages/home.md"
+        "commit": "c8c37dcf5179db1c5091d63fc6bc3619723f1f8d",
+        "hash": "2747674878",
+        "path": "outstatic/content/projects/hausbot.md"
       },
       "author": {
         "name": "Roman Samec",
         "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
       },
-      "collection": "pages",
-      "coverImage": "",
+      "collection": "projects",
+      "coverImage": "/images/hausboat-Q5OT.jpeg",
       "description": "",
-      "publishedAt": "2023-10-26T10:47:32.499Z",
-      "slug": "home",
+      "publishedAt": "2023-10-26T11:35:27.771Z",
+      "slug": "hausbot",
       "status": "published",
-      "title": "HOME"
+      "title": "Hausbot"
     },
     {
       "__outstatic": {
@@ -40,21 +40,78 @@
     },
     {
       "__outstatic": {
-        "commit": "c8c37dcf5179db1c5091d63fc6bc3619723f1f8d",
-        "hash": "2747674878",
-        "path": "outstatic/content/projects/hausbot.md"
+        "commit": "f09655ad2a4530f34520de8aaa6fa9675c531a18",
+        "hash": "2314791218",
+        "path": "outstatic/content/pages/home.md"
       },
       "author": {
         "name": "Roman Samec",
         "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
       },
-      "collection": "projects",
-      "coverImage": "/images/hausboat-Q5OT.jpeg",
+      "collection": "pages",
+      "coverImage": "",
       "description": "",
-      "publishedAt": "2023-10-26T11:35:27.771Z",
-      "slug": "hausbot",
+      "publishedAt": "2023-10-26T10:47:32.499Z",
+      "slug": "home",
       "status": "published",
-      "title": "Hausbot"
+      "title": "HOME"
+    },
+    {
+      "__outstatic": {
+        "commit": "2acf2da179b940691c29af6afd8fa335bb25f1a3",
+        "hash": "2496563907",
+        "path": "outstatic/content/ships/krajanek670.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "ships",
+      "coverImage": "/images/file4-EyNz.jpeg",
+      "description": "Větší typ lodi Krajánek 600, který navíc nabízí prostornější kajutu, vnitřní kormidelnu, a především větší opalovací palubu na přídi. ",
+      "occupied": "https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTxCyobEJnpLcte-37LgDJicoHeCzav2kuXalQK6QDU-kky1Eshz_6VEm0mDfwKUw/pubhtml/sheet?headers=false&gid=144343434",
+      "publishedAt": "2023-10-20T19:26:23.955Z",
+      "slug": "krajanek670",
+      "status": "published",
+      "title": "KRAJÁNEK 670"
+    },
+    {
+      "__outstatic": {
+        "commit": "bb2da5ec8789514510cd1ebec66f429a21fb6ab2",
+        "hash": "3521269641",
+        "path": "outstatic/content/ships/krajanek-600.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "ships",
+      "coverImage": "/images/krajanek600-A5MD.jpg",
+      "description": "Jednoduše navržená loď pro nenáročný pár nebo skupinku přátel. Díky jejím rozměrům můžete přenocovat na jakémkoliv splavnému úseku vltavské kaskády – a to se nedá říct o každé lodi.",
+      "occupied": "https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vQ29GwL8ZV_QrKLrOF3HPsAa1GnVTiLC9Pf_4jhbS-1UbK6d-YdjGrq_5ddueDX-Q/pubhtml/sheet?headers=false&gid=144343434",
+      "publishedAt": "2023-10-26T18:40:38.260Z",
+      "slug": "krajanek-600",
+      "status": "published",
+      "title": "KRAJÁNEK 600"
+    },
+    {
+      "__outstatic": {
+        "commit": "7e4e190455cfd417d6cbba0d438d331539ba5b9e",
+        "hash": "58217937",
+        "path": "outstatic/content/ships/krajanek-672.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "ships",
+      "coverImage": "/images/krajanek672-U0ND.jpg",
+      "description": "Větší typ lodi Krajánek 672, který navíc nabízí prostornější kajutu, vnitřní kormidelnu, a především větší opalovací palubu na přídi.",
+      "occupied": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTDzk-BxFl7VEWSIzluwDN4IsXvVILf3r3tTaqvxJhJKMN_xYeQeLinPou1RMBbRw/pubhtml?gid=144343434&single=true",
+      "publishedAt": "2023-10-26T18:31:08.735Z",
+      "slug": "krajanek-672",
+      "status": "published",
+      "title": "KRAJÁNEK 672"
     },
     {
       "__outstatic": {
@@ -76,45 +133,7 @@
     },
     {
       "__outstatic": {
-        "commit": "b5a33e5b0a8adb9cb19faaaff06c283e46b0fd35",
-        "hash": "58217937",
-        "path": "outstatic/content/ships/krajanek-672.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "ships",
-      "coverImage": "/images/krajanek672-U0ND.jpg",
-      "description": "Větší typ lodi Krajánek 672, který navíc nabízí prostornější kajutu, vnitřní kormidelnu, a především větší opalovací palubu na přídi.",
-      "occupied": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTDzk-BxFl7VEWSIzluwDN4IsXvVILf3r3tTaqvxJhJKMN_xYeQeLinPou1RMBbRw/pubhtml?gid=144343434&single=true",
-      "publishedAt": "2023-10-26T18:31:08.735Z",
-      "slug": "krajanek-672",
-      "status": "published",
-      "title": "KRAJÁNEK 672"
-    },
-    {
-      "__outstatic": {
-        "commit": "86f9b0255b32abb76eda1f7d527a6925a2621e7e",
-        "hash": "3521269641",
-        "path": "outstatic/content/ships/krajanek-600.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "ships",
-      "coverImage": "/images/krajanek600-A5MD.jpg",
-      "description": "Jednoduše navržená loď pro nenáročný pár nebo skupinku přátel. Díky jejím rozměrům můžete přenocovat na jakémkoliv splavnému úseku vltavské kaskády – a to se nedá říct o každé lodi.",
-      "occupied": "https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vQ29GwL8ZV_QrKLrOF3HPsAa1GnVTiLC9Pf_4jhbS-1UbK6d-YdjGrq_5ddueDX-Q/pubhtml/sheet?headers=false&gid=144343434",
-      "publishedAt": "2023-10-26T18:40:38.260Z",
-      "slug": "krajanek-600",
-      "status": "published",
-      "title": "KRAJÁNEK 600"
-    },
-    {
-      "__outstatic": {
-        "commit": "cafaa3375f901dff2de62c40c0faa4c7b033b214",
+        "commit": "7a6134fdadc3da59052a2676a61b842428bb398c",
         "hash": "1842742863",
         "path": "outstatic/content/ships/hausbot-navis.md"
       },
@@ -130,25 +149,6 @@
       "slug": "hausbot-navis",
       "status": "published",
       "title": "HAUSBÓT NAVIS"
-    },
-    {
-      "__outstatic": {
-        "commit": "9daf6083e4ba9af84876960ded0ba7071b13a8aa",
-        "hash": "2496563907",
-        "path": "outstatic/content/ships/krajanek670.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "ships",
-      "coverImage": "/images/file4-EyNz.jpeg",
-      "description": "Větší typ lodi Krajánek 600, který navíc nabízí prostornější kajutu, vnitřní kormidelnu, a především větší opalovací palubu na přídi. ",
-      "occupied": "https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTxCyobEJnpLcte-37LgDJicoHeCzav2kuXalQK6QDU-kky1Eshz_6VEm0mDfwKUw/pubhtml/sheet?headers=false&gid=144343434",
-      "publishedAt": "2023-10-20T19:26:23.955Z",
-      "slug": "krajanek670",
-      "status": "published",
-      "title": "KRAJÁNEK 670"
     }
   ]
 }
