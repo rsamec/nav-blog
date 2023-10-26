@@ -1,6 +1,6 @@
 {
-  "commit": "e9911b970e322f92fcd7493dadad74895a79625e",
-  "generated": "2023-10-26T18:30:11.921Z",
+  "commit": "c1d2945debcb7b8373942bf569cda659660ed04b",
+  "generated": "2023-10-26T18:30:43.510Z",
   "metadata": [
     {
       "__outstatic": {
@@ -37,25 +37,6 @@
       "slug": "cykloturistika",
       "status": "published",
       "title": "Cykloturistika"
-    },
-    {
-      "__outstatic": {
-        "commit": "ec651cfd540085f8b79cac440b943630737f4f08",
-        "hash": "3028179419",
-        "path": "outstatic/content/ships/krajanek670.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "ships",
-      "coverImage": "/images/file4-EyNz.jpeg",
-      "description": "",
-      "occupied": "https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTxCyobEJnpLcte-37LgDJicoHeCzav2kuXalQK6QDU-kky1Eshz_6VEm0mDfwKUw/pubhtml/sheet?headers=false&gid=144343434",
-      "publishedAt": "2023-10-20T19:26:23.955Z",
-      "slug": "krajanek670",
-      "status": "published",
-      "title": "Krajánek 670"
     },
     {
       "__outstatic": {
@@ -149,6 +130,25 @@
       "slug": "krajanek-600",
       "status": "published",
       "title": "KRAJÁNEK 600"
+    },
+    {
+      "__outstatic": {
+        "commit": "c1d2945debcb7b8373942bf569cda659660ed04b",
+        "hash": "2814965830",
+        "path": "outstatic/content/ships/krajanek670.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "ships",
+      "coverImage": "/images/file4-EyNz.jpeg",
+      "description": "",
+      "occupied": "https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTxCyobEJnpLcte-37LgDJicoHeCzav2kuXalQK6QDU-kky1Eshz_6VEm0mDfwKUw/pubhtml/sheet?headers=false&gid=144343434",
+      "publishedAt": "2023-10-20T19:26:23.955Z",
+      "slug": "krajanek670",
+      "status": "published",
+      "title": "KRAJÁNEK 670"
     }
   ]
 }
