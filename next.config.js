@@ -3,9 +3,9 @@ const withExportImages = require('next-export-optimize-images')
 let assetPrefix = ''
 let basePath = ''
 
-const isGithubActions = process.env.GITHUB_ACTIONS || false
-if (isGithubActions) {
-  const repo = process.env.GITHUB_REPOSITORY.replace(/.*?\//, '')
+const hasRepoSlug = process.env.NEXT_PUBLIC_REPO_SLUG || false
+if (hasRepoSlug) {
+  const repo = process.env.NEXT_PUBLIC_REPO_SLUG.replace(/.*?\//, '')
 
   assetPrefix = `/${repo}/`
   basePath = `/${repo}`
@@ -16,13 +16,13 @@ const nextConfig = withExportImages({
   output: 'export',
   assetPrefix,
   basePath,
-  experimental: {
-    appDir: true,
-  },
-  images: {
-    loader: "custom",
-    path: ""
-  }
+  // experimental: {
+  //   appDir: true,
+  // },
+  // images: {
+  //   loader: "custom",
+  //   path: ""
+  // }
 })
 // const nextConfig = {  
 // }

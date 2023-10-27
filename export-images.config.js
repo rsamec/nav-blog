@@ -1,8 +1,8 @@
 let basePath = ''
 
-const isGithubActions = process.env.GITHUB_ACTIONS || false
-if (isGithubActions) {
-  const repo = process.env.GITHUB_REPOSITORY.replace(/.*?\//, '')
+const hasRepoSlug = process.env.NEXT_PUBLIC_REPO_SLUG || false
+if (hasRepoSlug) {
+  const repo = process.env.NEXT_PUBLIC_REPO_SLUG.replace(/.*?\//, '')
   basePath = `/${repo}`
 }
 console.log(basePath);
