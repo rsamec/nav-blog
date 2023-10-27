@@ -67,8 +67,7 @@ export default async function Project(params: Params) {
                 alt={project.title}
                 src={project.coverImage ?? ''}
                 fill
-                className="object-cover object-center"
-                priority
+                className="object-cover object-center"                
               />
             </div>
             <div>

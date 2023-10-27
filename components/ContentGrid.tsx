@@ -36,7 +36,6 @@ const ContentGrid = ({
                   width={0}
                   height={0}
                   sizes="(min-width: 768px) 347px, 192px"
-                  priority={priority && id <= 2}
                 />
                 {collection === 'projects' && (
                   <h2 className="p-2 bg-opacity-80 bg-white text-center whitespace-nowrap font-bold text-3xl absolute top-1/2 left-1/2 -translate-y-1/2 -translate-x-1/2 shadow-lg rounded-lg">

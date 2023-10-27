@@ -68,7 +68,6 @@ export default async function Post(params: Params) {
               src={ship?.coverImage || ''}
               fill
               className="object-cover object-center"
-              priority
             />
           </div>
           {Array.isArray(ship?.tags)
