@@ -66,9 +66,10 @@ export default async function Project(params: Params) {
             <div className="relative mb-2 md:mb-4 sm:mx-0 aspect-square">
               <Image
                 alt={project.title}
-                src={imageUrl(project?.coverImage, basePath)}
+                src={imageUrl(project?.coverImage)}
                 fill
-                className="object-cover object-center"                
+                className="object-cover object-center" 
+                priority               
               />
             </div>
             <div>

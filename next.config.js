@@ -16,13 +16,6 @@ const nextConfig = withExportImages({
   output: 'export',
   assetPrefix,
   basePath,
-  // experimental: {
-  //   appDir: true,
-  // },
-  // images: {
-  //   loader: "custom",
-  //   path: ""
-  // }
 })
 // const nextConfig = {  
 // }

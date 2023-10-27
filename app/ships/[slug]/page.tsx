@@ -65,11 +65,11 @@ export default async function Post(params: Params) {
         <article className="mb-32">
           <div className="relative mb-2 md:mb-4 sm:mx-0 w-full h-52 md:h-96">
             <Image
-              alt={ship.title}
-              
-              src={imageUrl(ship?.coverImage, basePath)}
+              alt={ship.title}              
+              src={imageUrl(ship?.coverImage)}
               fill
               className="object-cover object-center"
+              priority
             />
           </div>
           {Array.isArray(ship?.tags)
