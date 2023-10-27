@@ -7,8 +7,9 @@ import Image from 'next/image'
 import ContentGrid from '@/components/ContentGrid'
 import { OstDocument } from 'outstatic'
 import { Metadata } from 'next'
-import { absoluteUrl } from '@/lib/utils/utils'
+import { absoluteUrl, imageUrl } from '@/lib/utils/utils'
 import markdownToHtml from '@/lib/utils/markdown'
+import { basePath } from '@/next.config'
 
 const collection = 'projects';
 type Project = {
@@ -65,7 +66,7 @@ export default async function Project(params: Params) {
             <div className="relative mb-2 md:mb-4 sm:mx-0 aspect-square">
               <Image
                 alt={project.title}
-                src={project.coverImage ?? ''}
+                src={imageUrl(project?.coverImage, basePath)}
                 fill
                 className="object-cover object-center"                
               />

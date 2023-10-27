@@ -4,10 +4,11 @@ import { getDocumentBySlug, getDocumentSlugs, load } from "outstatic/server";
 import Image from 'next/image';
 import { OstDocument } from "outstatic";
 import { Metadata } from "next";
-import { absoluteUrl } from "@/lib/utils/utils";
+import { absoluteUrl, imageUrl } from "@/lib/utils/utils";
 import DateFormatter from "@/components/DateFormatter";
 import Navigation from "@/components/Navigation";
 import Layout from "@/components/Layout";
+import { basePath } from "@/next.config";
 
 const collection = 'ships'
 
@@ -65,7 +66,8 @@ export default async function Post(params: Params) {
           <div className="relative mb-2 md:mb-4 sm:mx-0 w-full h-52 md:h-96">
             <Image
               alt={ship.title}
-              src={ship?.coverImage || ''}
+              
+              src={imageUrl(ship?.coverImage, basePath)}
               fill
               className="object-cover object-center"
             />
