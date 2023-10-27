@@ -13,12 +13,16 @@ if (isGithubActions) {
 
 /** @type {import('next').NextConfig} */
 const nextConfig = withExportImages({
-  output:'export',
+  output: 'export',
   assetPrefix,
   basePath,
   experimental: {
     appDir: true,
   },
+  images: {
+    loader: "custom",
+    path: ""
+  }
 })
 // const nextConfig = {  
 // }
