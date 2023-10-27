@@ -16,6 +16,9 @@ const nextConfig = withExportImages({
   output:'export',
   assetPrefix,
   basePath,
+  experimental: {
+    appDir: true,
+  },
 })
 // const nextConfig = {  
 // }

@@ -4,5 +4,6 @@ export function absoluteUrl(path: string) {
 }
 
 export function imageUrl(image:string | undefined, basePath: string | undefined){
-  return image != null ? basePath != null && basePath != '' ? `/${basePath}/${image}` : image : ''
+  return image ?? '';
+  //return image != null ? basePath != null && basePath != '' ? `/${basePath}/${image}` : image : ''
 }
