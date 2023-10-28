@@ -1,6 +1,6 @@
 {
-  "commit": "e6dd640bfeb9a07c4bd22ae09a77a215b67d082c",
-  "generated": "2023-10-28T11:06:34.420Z",
+  "commit": "308a1b30fb8c8e0138bf726486f741cced44f9ce",
+  "generated": "2023-10-28T11:08:16.544Z",
   "metadata": [
     {
       "__outstatic": {
@@ -77,25 +77,6 @@
     },
     {
       "__outstatic": {
-        "commit": "7a6134fdadc3da59052a2676a61b842428bb398c",
-        "hash": "1842742863",
-        "path": "outstatic/content/ships/hausbot-navis.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "ships",
-      "coverImage": "/images/file-5-MwNj.jpeg",
-      "description": "Ve své kategorii plavidel nabízí hausbót nezvykle velké rozměry venkovní paluby o celkové ploše 15 m2. Ubytování je ve dvou kajutách, kde se na třech dvojlůžkách vyspí pohodlně 6 osob. ",
-      "occupied": "https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTymAEq0XAJtuZYvVIvsA7aWQrBmxbN1Do9aWusxsLHv21m5R-YkLrlzsLlQCrgQA/pubhtml/sheet?headers=false&gid=144343434",
-      "publishedAt": "2023-10-22T10:41:13.953Z",
-      "slug": "hausbot-navis",
-      "status": "published",
-      "title": "HAUSBÓT NAVIS"
-    },
-    {
-      "__outstatic": {
         "commit": "de5c44f0de0c996dbbf4ebe0b17ec4b1d0439d71",
         "hash": "1515179513",
         "path": "outstatic/content/projects/priprava-na-pobyt.md"
@@ -153,6 +134,27 @@
       "title": "KRAJÁNEK 672",
       "weekPrice": "4100,5300,6500,6500,4100",
       "weekendPrice": "4300,5500,6200,6200,4300"
+    },
+    {
+      "__outstatic": {
+        "commit": "308a1b30fb8c8e0138bf726486f741cced44f9ce",
+        "hash": "3303921635",
+        "path": "outstatic/content/ships/hausbot-navis.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "ships",
+      "coverImage": "",
+      "description": "Ve své kategorii plavidel nabízí hausbót nezvykle velké rozměry venkovní paluby o celkové ploše 15 m2. Ubytování je ve dvou kajutách, kde se na třech dvojlůžkách vyspí pohodlně 6 osob. ",
+      "occupied": "https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTymAEq0XAJtuZYvVIvsA7aWQrBmxbN1Do9aWusxsLHv21m5R-YkLrlzsLlQCrgQA/pubhtml/sheet?headers=false&gid=144343434",
+      "publishedAt": "2023-10-22T10:41:13.953Z",
+      "slug": "hausbot-navis",
+      "status": "published",
+      "title": "HAUSBÓT NAVIS",
+      "weekPrice": "7100,9900,12700,12700,7100",
+      "weekendPrice": "7800,10900,12100,12100,7800"
     }
   ]
 }
