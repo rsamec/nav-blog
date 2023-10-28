@@ -1,6 +1,6 @@
 {
-  "commit": "194fc7925fffc2f124d3eff5f9233f5cad3d28e9",
-  "generated": "Thu, 26 Oct 2023 20:45:57 GMT",
+  "commit": "86c64f9658f562d3222971e6644c152b2c0a466a",
+  "generated": "2023-10-28T11:03:28.517Z",
   "metadata": [
     {
       "__outstatic": {
@@ -133,8 +133,8 @@
     },
     {
       "__outstatic": {
-        "commit": "d07b318b5163eee4cb4812780b65a5dd2fd1018a",
-        "hash": "2948525265",
+        "commit": "86c64f9658f562d3222971e6644c152b2c0a466a",
+        "hash": "3947096613",
         "path": "outstatic/content/ships/krajanek-600.md"
       },
       "author": {
@@ -148,7 +148,9 @@
       "publishedAt": "2023-10-26T18:40:38.260Z",
       "slug": "krajanek-600",
       "status": "published",
-      "title": "KRAJÁNEK 600"
+      "title": "KRAJÁNEK 600",
+      "weekPrice": "4100,5300,6500,6500,4100",
+      "weekendPrice": "4300,5550,6200,6200,4300"
     }
   ]
 }
