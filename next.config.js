@@ -18,6 +18,8 @@ const nextConfig = withExportImages({
   basePath,
 })
 // const nextConfig = {  
+//   assetPrefix,
+//   basePath,
 // }
 
 module.exports = nextConfig
