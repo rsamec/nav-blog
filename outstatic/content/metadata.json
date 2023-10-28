@@ -1,6 +1,6 @@
 {
-  "commit": "308a1b30fb8c8e0138bf726486f741cced44f9ce",
-  "generated": "2023-10-28T11:08:16.544Z",
+  "commit": "66bd8d5c07da4484f0f6b3a0eae67c05a50e2535",
+  "generated": "2023-10-28T11:09:23.707Z",
   "metadata": [
     {
       "__outstatic": {
@@ -55,25 +55,6 @@
       "slug": "home",
       "status": "published",
       "title": "HOME"
-    },
-    {
-      "__outstatic": {
-        "commit": "5ed17763f9dfa5c2e252449debda5f4bbdc783cc",
-        "hash": "2932226160",
-        "path": "outstatic/content/ships/krajanek-670.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "ships",
-      "coverImage": "/images/file4-EyNz.jpeg",
-      "description": "Větší typ lodi Krajánek 600, který navíc nabízí prostornější kajutu, vnitřní kormidelnu, a především větší opalovací palubu na přídi. ",
-      "occupied": "https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTxCyobEJnpLcte-37LgDJicoHeCzav2kuXalQK6QDU-kky1Eshz_6VEm0mDfwKUw/pubhtml/sheet?headers=false&gid=144343434",
-      "publishedAt": "2023-10-20T19:26:23.955Z",
-      "slug": "krajanek-670",
-      "status": "published",
-      "title": "KRAJÁNEK 670"
     },
     {
       "__outstatic": {
@@ -155,6 +136,27 @@
       "title": "HAUSBÓT NAVIS",
       "weekPrice": "7100,9900,12700,12700,7100",
       "weekendPrice": "7800,10900,12100,12100,7800"
+    },
+    {
+      "__outstatic": {
+        "commit": "66bd8d5c07da4484f0f6b3a0eae67c05a50e2535",
+        "hash": "1106100898",
+        "path": "outstatic/content/ships/krajanek-670.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "ships",
+      "coverImage": "/images/file4-EyNz.jpeg",
+      "description": "Větší typ lodi Krajánek 600, který navíc nabízí prostornější kajutu, vnitřní kormidelnu, a především větší opalovací palubu na přídi. ",
+      "occupied": "https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTxCyobEJnpLcte-37LgDJicoHeCzav2kuXalQK6QDU-kky1Eshz_6VEm0mDfwKUw/pubhtml/sheet?headers=false&gid=144343434",
+      "publishedAt": "2023-10-20T19:26:23.955Z",
+      "slug": "krajanek-670",
+      "status": "published",
+      "title": "KRAJÁNEK 670",
+      "weekPrice": "4100,5300,6300,6300,4100",
+      "weekendPrice": "4300,5500,6500,6500,4300"
     }
   ]
 }
