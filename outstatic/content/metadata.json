@@ -1,6 +1,6 @@
 {
-  "commit": "b0835e0eb4dc46c1eb3efec85a238f4adddc274b",
-  "generated": "2023-10-28T11:32:46.846Z",
+  "commit": "c539586f583a9cf92e667429c9cda34b3468cb2e",
+  "generated": "Sat, 28 Oct 2023 11:33:01 GMT",
   "metadata": [
     {
       "__outstatic": {
@@ -121,25 +121,7 @@
     },
     {
       "__outstatic": {
-        "commit": "de5c44f0de0c996dbbf4ebe0b17ec4b1d0439d71",
-        "hash": "1515179513",
-        "path": "outstatic/content/projects/priprava-na-pobyt.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "/images/trip-E3OD.jpg",
-      "description": "",
-      "publishedAt": "2023-10-26T11:34:31.607Z",
-      "slug": "priprava-na-pobyt",
-      "status": "published",
-      "title": "Příprava na pobyt"
-    },
-    {
-      "__outstatic": {
-        "commit": "b0835e0eb4dc46c1eb3efec85a238f4adddc274b",
+        "commit": "cea00aec3dac2753274a6670907efde76e501b16",
         "hash": "3140867660",
         "path": "outstatic/content/ships/hausbot-navis.md"
       },
@@ -157,6 +139,24 @@
       "title": "HAUSBÓT NAVIS",
       "weekPrice": "7100,9900,12700,12700,7100",
       "weekendPrice": "7800,10900,12100,12100,7800"
+    },
+    {
+      "__outstatic": {
+        "commit": "de5c44f0de0c996dbbf4ebe0b17ec4b1d0439d71",
+        "hash": "1515179513",
+        "path": "outstatic/content/projects/priprava-na-pobyt.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "/images/trip-E3OD.jpg",
+      "description": "",
+      "publishedAt": "2023-10-26T11:34:31.607Z",
+      "slug": "priprava-na-pobyt",
+      "status": "published",
+      "title": "Příprava na pobyt"
     }
   ]
 }
