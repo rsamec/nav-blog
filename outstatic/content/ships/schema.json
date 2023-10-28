@@ -12,10 +12,10 @@
     "price": {
       "required": true,
       "description": "",
+      "values": [],
       "fieldType": "Tags",
       "dataType": "array",
-      "title": "price",
-      "values": []
+      "title": "price"
     }
   }
 }
