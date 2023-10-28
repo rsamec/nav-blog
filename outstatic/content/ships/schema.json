@@ -8,6 +8,14 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "occupied"
+    },
+    "price": {
+      "required": true,
+      "description": "",
+      "fieldType": "Tags",
+      "dataType": "array",
+      "title": "price",
+      "values": []
     }
   }
 }
