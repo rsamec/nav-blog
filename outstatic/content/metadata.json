@@ -1,6 +1,6 @@
 {
   "commit": "86c64f9658f562d3222971e6644c152b2c0a466a",
-  "generated": "2023-10-28T11:03:28.517Z",
+  "generated": "2023-10-28T11:05:09.969Z",
   "metadata": [
     {
       "__outstatic": {
@@ -134,7 +134,7 @@
     {
       "__outstatic": {
         "commit": "86c64f9658f562d3222971e6644c152b2c0a466a",
-        "hash": "3947096613",
+        "hash": "336837615",
         "path": "outstatic/content/ships/krajanek-600.md"
       },
       "author": {

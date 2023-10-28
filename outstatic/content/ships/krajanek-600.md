@@ -25,3 +25,11 @@ Spotřebované palivo není v ceně pronájmu a jeho úhrada probíhá po ukonč
 
 Pes, či jiné domácí zvíře na palubě – 150,-
 
+**Říjen **
+
+1 den (9:00 – 17:00) **\- 1 500,-**
+
+2 dny (9:00 – 17:00 posledního dne** \- 2 500,-**
+
+
+
