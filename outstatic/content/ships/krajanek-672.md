@@ -8,6 +8,8 @@ slug: 'krajanek-672'
 description: 'Větší typ lodi Krajánek 672, který navíc nabízí prostornější kajutu, vnitřní kormidelnu, a především větší opalovací palubu na přídi.'
 coverImage: '/images/krajanek672-U0ND.jpg'
 occupied: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTDzk-BxFl7VEWSIzluwDN4IsXvVILf3r3tTaqvxJhJKMN_xYeQeLinPou1RMBbRw/pubhtml?gid=144343434&single=true'
+weekendPrice: '4300,5500,6200,6200,4300'
+weekPrice: '4100,5300,6500,6500,4100'
 publishedAt: '2023-10-26T18:31:08.735Z'
 ---
 
@@ -22,4 +24,10 @@ Spotřebované palivo není v ceně pronájmu a jeho úhrada probíhá po ukonč
 **Vratná kauce 3000,- Kč**
 
 Pes, či jiné domácí zvíře na palubě – 150,-
+
+**Říjen **
+
+1 den (9:00 – 17:00) **\- 1 500,-**
+
+2 dny (9:00 – 17:00 posledního dne** \- 2 500,-**
 

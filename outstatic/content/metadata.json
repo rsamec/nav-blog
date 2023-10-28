@@ -1,6 +1,6 @@
 {
-  "commit": "86c64f9658f562d3222971e6644c152b2c0a466a",
-  "generated": "2023-10-28T11:05:09.969Z",
+  "commit": "e6dd640bfeb9a07c4bd22ae09a77a215b67d082c",
+  "generated": "2023-10-28T11:06:34.420Z",
   "metadata": [
     {
       "__outstatic": {
@@ -55,25 +55,6 @@
       "slug": "home",
       "status": "published",
       "title": "HOME"
-    },
-    {
-      "__outstatic": {
-        "commit": "7e4e190455cfd417d6cbba0d438d331539ba5b9e",
-        "hash": "58217937",
-        "path": "outstatic/content/ships/krajanek-672.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "ships",
-      "coverImage": "/images/krajanek672-U0ND.jpg",
-      "description": "Větší typ lodi Krajánek 672, který navíc nabízí prostornější kajutu, vnitřní kormidelnu, a především větší opalovací palubu na přídi.",
-      "occupied": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTDzk-BxFl7VEWSIzluwDN4IsXvVILf3r3tTaqvxJhJKMN_xYeQeLinPou1RMBbRw/pubhtml?gid=144343434&single=true",
-      "publishedAt": "2023-10-26T18:31:08.735Z",
-      "slug": "krajanek-672",
-      "status": "published",
-      "title": "KRAJÁNEK 672"
     },
     {
       "__outstatic": {
@@ -151,6 +132,27 @@
       "title": "KRAJÁNEK 600",
       "weekPrice": "4100,5300,6500,6500,4100",
       "weekendPrice": "4300,5550,6200,6200,4300"
+    },
+    {
+      "__outstatic": {
+        "commit": "e6dd640bfeb9a07c4bd22ae09a77a215b67d082c",
+        "hash": "786150832",
+        "path": "outstatic/content/ships/krajanek-672.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "ships",
+      "coverImage": "/images/krajanek672-U0ND.jpg",
+      "description": "Větší typ lodi Krajánek 672, který navíc nabízí prostornější kajutu, vnitřní kormidelnu, a především větší opalovací palubu na přídi.",
+      "occupied": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTDzk-BxFl7VEWSIzluwDN4IsXvVILf3r3tTaqvxJhJKMN_xYeQeLinPou1RMBbRw/pubhtml?gid=144343434&single=true",
+      "publishedAt": "2023-10-26T18:31:08.735Z",
+      "slug": "krajanek-672",
+      "status": "published",
+      "title": "KRAJÁNEK 672",
+      "weekPrice": "4100,5300,6500,6500,4100",
+      "weekendPrice": "4300,5500,6200,6200,4300"
     }
   ]
 }
