@@ -76,7 +76,7 @@ export default async function Project(params: Params) {
               <h1 className="font-primary text-2xl font-bold md:text-4xl mb-2">
                 {project.title}
               </h1>
-              <div className="hidden md:block md:mb-8 text-slate-600">
+              <div className="hidden md:block md:mb-8 text-slate-800">
                 Publikováno <DateFormatter dateString={project.publishedAt} />{' '}
                 {project?.author?.name ? `by ${project?.author?.name}` : null}.
               </div>
