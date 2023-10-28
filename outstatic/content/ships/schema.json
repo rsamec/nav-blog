@@ -9,14 +9,6 @@
       "dataType": "string",
       "title": "occupied"
     },
-    "price": {
-      "required": true,
-      "description": "",
-      "values": [],
-      "fieldType": "Tags",
-      "dataType": "array",
-      "title": "price"
-    },
     "weekendPrice": {
       "required": true,
       "description": "",
