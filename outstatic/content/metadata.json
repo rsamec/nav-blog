@@ -1,25 +1,7 @@
 {
   "commit": "5d8e1984cef7de7cf9c0c6e50219f4cfcc198076",
-  "generated": "Sat, 28 Oct 2023 11:09:46 GMT",
+  "generated": "Sat, 28 Oct 2023 11:10:22 GMT",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "1c6d13a7216c29d86ab7abcbfab7f6879dfc201c",
-        "hash": "403836780",
-        "path": "outstatic/content/projects/cykloturistika.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "/images/bike_01-M0MD.jpg",
-      "description": "",
-      "publishedAt": "2023-10-26T11:33:02.314Z",
-      "slug": "cykloturistika",
-      "status": "published",
-      "title": "Cykloturistika"
-    },
     {
       "__outstatic": {
         "commit": "20b8bf40ef82912134aeb40d869d43e57c86c72e",
@@ -37,6 +19,24 @@
       "slug": "hausbot",
       "status": "published",
       "title": "Hausbot"
+    },
+    {
+      "__outstatic": {
+        "commit": "1c6d13a7216c29d86ab7abcbfab7f6879dfc201c",
+        "hash": "403836780",
+        "path": "outstatic/content/projects/cykloturistika.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "/images/bike_01-M0MD.jpg",
+      "description": "",
+      "publishedAt": "2023-10-26T11:33:02.314Z",
+      "slug": "cykloturistika",
+      "status": "published",
+      "title": "Cykloturistika"
     },
     {
       "__outstatic": {
@@ -79,45 +79,6 @@
     },
     {
       "__outstatic": {
-        "commit": "de5c44f0de0c996dbbf4ebe0b17ec4b1d0439d71",
-        "hash": "1515179513",
-        "path": "outstatic/content/projects/priprava-na-pobyt.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "/images/trip-E3OD.jpg",
-      "description": "",
-      "publishedAt": "2023-10-26T11:34:31.607Z",
-      "slug": "priprava-na-pobyt",
-      "status": "published",
-      "title": "Příprava na pobyt"
-    },
-    {
-      "__outstatic": {
-        "commit": "91000d9a29d4df6a1b80d77d89c47677637b1003",
-        "hash": "3303921635",
-        "path": "outstatic/content/ships/hausbot-navis.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "ships",
-      "coverImage": "",
-      "description": "Ve své kategorii plavidel nabízí hausbót nezvykle velké rozměry venkovní paluby o celkové ploše 15 m2. Ubytování je ve dvou kajutách, kde se na třech dvojlůžkách vyspí pohodlně 6 osob. ",
-      "occupied": "https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTymAEq0XAJtuZYvVIvsA7aWQrBmxbN1Do9aWusxsLHv21m5R-YkLrlzsLlQCrgQA/pubhtml/sheet?headers=false&gid=144343434",
-      "publishedAt": "2023-10-22T10:41:13.953Z",
-      "slug": "hausbot-navis",
-      "status": "published",
-      "title": "HAUSBÓT NAVIS",
-      "weekPrice": "7100,9900,12700,12700,7100",
-      "weekendPrice": "7800,10900,12100,12100,7800"
-    },
-    {
-      "__outstatic": {
         "commit": "2b3536cfeef55f2c9f15f3e4063abb6a601430a0",
         "hash": "1106100898",
         "path": "outstatic/content/ships/krajanek-670.md"
@@ -157,6 +118,45 @@
       "title": "KRAJÁNEK 600",
       "weekPrice": "4100,5300,6500,6500,4100",
       "weekendPrice": "4300,5550,6200,6200,4300"
+    },
+    {
+      "__outstatic": {
+        "commit": "91000d9a29d4df6a1b80d77d89c47677637b1003",
+        "hash": "3303921635",
+        "path": "outstatic/content/ships/hausbot-navis.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "ships",
+      "coverImage": "",
+      "description": "Ve své kategorii plavidel nabízí hausbót nezvykle velké rozměry venkovní paluby o celkové ploše 15 m2. Ubytování je ve dvou kajutách, kde se na třech dvojlůžkách vyspí pohodlně 6 osob. ",
+      "occupied": "https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTymAEq0XAJtuZYvVIvsA7aWQrBmxbN1Do9aWusxsLHv21m5R-YkLrlzsLlQCrgQA/pubhtml/sheet?headers=false&gid=144343434",
+      "publishedAt": "2023-10-22T10:41:13.953Z",
+      "slug": "hausbot-navis",
+      "status": "published",
+      "title": "HAUSBÓT NAVIS",
+      "weekPrice": "7100,9900,12700,12700,7100",
+      "weekendPrice": "7800,10900,12100,12100,7800"
+    },
+    {
+      "__outstatic": {
+        "commit": "de5c44f0de0c996dbbf4ebe0b17ec4b1d0439d71",
+        "hash": "1515179513",
+        "path": "outstatic/content/projects/priprava-na-pobyt.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "/images/trip-E3OD.jpg",
+      "description": "",
+      "publishedAt": "2023-10-26T11:34:31.607Z",
+      "slug": "priprava-na-pobyt",
+      "status": "published",
+      "title": "Příprava na pobyt"
     }
   ]
 }
