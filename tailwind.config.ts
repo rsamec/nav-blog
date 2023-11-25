@@ -10,8 +10,8 @@ const config: Config = {
     extend: {
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-        'gradient-conic':
-          'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
+        'gradient-conic':'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
+        'ship-pattern': "url('/img/big-kalkomey.jpg')",
       },
       colors:{
         transparent: 'transparent',
@@ -29,5 +29,6 @@ const config: Config = {
     },
   },
   plugins: [],
+  darkMode: 'class',
 }
 export default config

@@ -89,7 +89,7 @@ export default async function Post(params: Params) {
           <h1 className="font-primary text-2xl font-bold md:text-4xl mb-2">
             {ship.title}
           </h1>
-          <div className="md:block md:mb-12 text-slate-800">
+          <div className="md:block md:mb-12">
             {ship?.description || ''}
           </div>
           <hr className="border-neutral-200 mt-5 mb-5" />

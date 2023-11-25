@@ -23,7 +23,7 @@ const ContentGrid = ({
 }: Props) => {
   return (
     <section id={collection}>
-      <h2 className="mb-8 text-5xl md:text-6xl font-bold tracking-tighter leading-tight">
+      <h2 className="mb-8 text-5xl md:text-6xl font-bold tracking-tighter leading-tight dark:text-white">
         {title}
       </h2>
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 sm:gap-x-6 lg:gap-x-8 gap-y-5 sm:gap-y-6 lg:gap-y-8 mb-8">
@@ -62,7 +62,7 @@ const ContentGrid = ({
                     {item.title}
                   </h3>
                   <div className="text-md mb-4 text-slate-700"></div>
-                  <p className="text-sm leading-relaxed mb-4 text-slate-800">
+                  <p className="text-sm leading-relaxed mb-4">
                     {item.description}
                   </p>
                 </div>
