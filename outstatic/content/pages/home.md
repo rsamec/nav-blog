@@ -7,7 +7,7 @@ title: 'HOME'
 status: 'published'
 slug: 'home'
 description: ''
-lang: 'en'
+lang: 'cs'
 publishedAt: '2023-10-26T10:47:32.499Z'
 ---
 

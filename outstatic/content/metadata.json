@@ -1,6 +1,6 @@
 {
-  "commit": "c1f0a96adfe4060798bd34b2e08e2287be3cfa83",
-  "generated": "2023-11-25T09:52:02.535Z",
+  "commit": "a8fe8b8c73acceed8ebc1c9d5c78ee777f6e2b04",
+  "generated": "2023-11-25T09:52:33.251Z",
   "metadata": [
     {
       "__outstatic": {
@@ -142,8 +142,8 @@
     },
     {
       "__outstatic": {
-        "commit": "c1f0a96adfe4060798bd34b2e08e2287be3cfa83",
-        "hash": "4017116324",
+        "commit": "a8fe8b8c73acceed8ebc1c9d5c78ee777f6e2b04",
+        "hash": "2893344817",
         "path": "outstatic/content/pages/home.md"
       },
       "author": {
@@ -153,7 +153,7 @@
       "collection": "pages",
       "coverImage": "",
       "description": "",
-      "lang": "en",
+      "lang": "cs",
       "publishedAt": "2023-10-26T10:47:32.499Z",
       "slug": "home",
       "status": "published",
