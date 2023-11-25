@@ -1,6 +1,6 @@
 {
-  "commit": "da6756c2c03a9b2cb0b9f582564c33936f4690cc",
-  "generated": "2023-11-25T09:57:14.541Z",
+  "commit": "e5db2b65df83eb6f8e3cecf83602ffb39248337a",
+  "generated": "2023-11-25T09:58:20.277Z",
   "metadata": [
     {
       "__outstatic": {
@@ -142,8 +142,8 @@
     },
     {
       "__outstatic": {
-        "commit": "da6756c2c03a9b2cb0b9f582564c33936f4690cc",
-        "hash": "352677189",
+        "commit": "e5db2b65df83eb6f8e3cecf83602ffb39248337a",
+        "hash": "3238455151",
         "path": "outstatic/content/pages/home.md"
       },
       "author": {
@@ -153,11 +153,11 @@
       "collection": "pages",
       "coverImage": "",
       "description": "",
-      "lang": "cs",
-      "publishedAt": "2023-11-25T10:00:41.521Z",
+      "lang": "en",
+      "publishedAt": "2023-11-25T10:03:20.908Z",
       "slug": "home",
       "status": "published",
-      "title": "Lodě na řece"
+      "title": "Home"
     }
   ]
 }

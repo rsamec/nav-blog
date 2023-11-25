@@ -1,5 +1,5 @@
 ---
-title: 'Lodě na řece'
+title: 'Home'
 status: 'published'
 author:
   name: 'Roman Samec'
@@ -7,8 +7,8 @@ author:
 slug: 'home'
 description: ''
 coverImage: ''
-lang: 'cs'
-publishedAt: '2023-11-25T10:00:41.521Z'
+lang: 'en'
+publishedAt: '2023-11-25T10:03:20.908Z'
 ---
 
-*We offer to rent a ships without any driving licenses. Como to spend a wonderful time with your family.*
+We offer to rent ships without any driving lincences. Come to spend a wonderful time with your family.
