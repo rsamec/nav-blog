@@ -11,15 +11,13 @@ if (hasRepoSlug) {
   basePath = `/${repo}`
 }
 
+const production = process.env.NODE_ENV === 'production' || false;
+
 /** @type {import('next').NextConfig} */
 const nextConfig = withExportImages({
-  output: 'export',
+  ...production && { output: 'export' },
   assetPrefix,
   basePath,
 })
-// const nextConfig = {  
-//   assetPrefix,
-//   basePath,
-// }
 
 module.exports = nextConfig

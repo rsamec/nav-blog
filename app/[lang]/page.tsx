@@ -1,21 +1,23 @@
-import Layout from '../components/Layout'
-import { load } from 'outstatic/server'
-import ContentGrid from '../components/ContentGrid'
+import Layout from '../../components/Layout'
+import { getDocuments, load } from 'outstatic/server'
+import ContentGrid from '../../components/ContentGrid'
 import markdownToHtml from '@/lib/utils/markdown'
 import Background from '@/components/Background'
 
-export default async function Index() {
-  const { content, allPosts, allProjects } = await getData()
+const collection = 'pages';
+
+export default async function Index(params: Params) {
+  const { page, content, allPosts, allProjects } = await getData(params)
 
   return (
-    <Layout>      
+    <Layout>
       <div className='hidden md:block relative h-72'>
         <Background></Background>
       </div>
       <div className="max-w-6xl mx-auto px-5">
-        <section className="mt-16 mb-16 md:mb-12">          
+        <section className="mt-16 mb-16 md:mb-12">
           <h2 className="mb-8 text-5xl md:text-6xl font-bold tracking-tighter leading-tight">
-            LODĚ NA ŘECE
+            {page.title}
           </h2>
           <div
             className="prose lg:prose-2xl home-intro"
@@ -42,14 +44,21 @@ export default async function Index() {
   )
 }
 
-async function getData() {
+interface Params {
+  params: {
+    lang: string
+  }
+}
+
+async function getData({ params }: Params) {
   const db = await load()
 
   const page = await db
-    .find({ collection: 'pages', slug: 'home-cs', }, ['content'])
+    .find({ collection, lang: params.lang }, ['content', 'slug', 'title'])
     .first()
 
   const content = await markdownToHtml(page.content)
+
 
   const allPosts = await db
     .find({ collection: 'ships' }, [
@@ -58,7 +67,8 @@ async function getData() {
       'slug',
       'coverImage',
       'description',
-      'tags'
+      'tags',
+      'lang'
     ])
     .sort({ publishedAt: -1 })
     .toArray()
@@ -69,8 +79,15 @@ async function getData() {
     .toArray()
 
   return {
+    page,
     content,
     allPosts,
     allProjects
   }
+}
+
+
+export async function generateStaticParams() {
+  const pages = getDocuments(collection)
+  return pages.map((doc) => ({ lang: doc.lang }))
 }
