@@ -7,7 +7,7 @@ author:
 slug: 'home'
 description: ''
 coverImage: ''
-lang: 'en'
+lang: 'cs'
 publishedAt: '2023-11-25T10:00:41.521Z'
 ---
 
