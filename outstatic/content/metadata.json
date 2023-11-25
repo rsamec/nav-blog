@@ -1,11 +1,11 @@
 {
-  "commit": "5d3c91d6c178fabefab7c43243a5bc8a7aa85c67",
-  "generated": "2023-11-25T09:54:04.795Z",
+  "commit": "3b5a1b230ae36d69e5322208b97242ecc34f4d83",
+  "generated": "Sat, 25 Nov 2023 09:54:20 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "20b8bf40ef82912134aeb40d869d43e57c86c72e",
-        "hash": "2851073992",
+        "commit": "d90a010eab49bb1ce8670bcf80b9b100aa3d7627",
+        "hash": "1277410107",
         "path": "outstatic/content/projects/hausbot.md"
       },
       "author": {
@@ -19,6 +19,25 @@
       "slug": "hausbot",
       "status": "published",
       "title": "Hausbot"
+    },
+    {
+      "__outstatic": {
+        "commit": "4a595715f04aa0912b28015461d59d68fa52899f",
+        "hash": "1538221597",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "lang": "en",
+      "publishedAt": "2023-11-25T09:58:36.407Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
     },
     {
       "__outstatic": {
@@ -40,50 +59,8 @@
     },
     {
       "__outstatic": {
-        "commit": "e16080369771a2fcbc75b5da96c19eb5e973a25a",
-        "hash": "786150832",
-        "path": "outstatic/content/ships/krajanek-672.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "ships",
-      "coverImage": "/images/krajanek672-U0ND.jpg",
-      "description": "Větší typ lodi Krajánek 672, který navíc nabízí prostornější kajutu, vnitřní kormidelnu, a především větší opalovací palubu na přídi.",
-      "occupied": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTDzk-BxFl7VEWSIzluwDN4IsXvVILf3r3tTaqvxJhJKMN_xYeQeLinPou1RMBbRw/pubhtml?gid=144343434&single=true",
-      "publishedAt": "2023-10-26T18:31:08.735Z",
-      "slug": "krajanek-672",
-      "status": "published",
-      "title": "KRAJÁNEK 672",
-      "weekPrice": "4100,5300,6500,6500,4100",
-      "weekendPrice": "4300,5500,6200,6200,4300"
-    },
-    {
-      "__outstatic": {
-        "commit": "2b3536cfeef55f2c9f15f3e4063abb6a601430a0",
-        "hash": "1106100898",
-        "path": "outstatic/content/ships/krajanek-670.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "ships",
-      "coverImage": "/images/file4-EyNz.jpeg",
-      "description": "Větší typ lodi Krajánek 600, který navíc nabízí prostornější kajutu, vnitřní kormidelnu, a především větší opalovací palubu na přídi. ",
-      "occupied": "https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTxCyobEJnpLcte-37LgDJicoHeCzav2kuXalQK6QDU-kky1Eshz_6VEm0mDfwKUw/pubhtml/sheet?headers=false&gid=144343434",
-      "publishedAt": "2023-10-20T19:26:23.955Z",
-      "slug": "krajanek-670",
-      "status": "published",
-      "title": "KRAJÁNEK 670",
-      "weekPrice": "4100,5300,6300,6300,4100",
-      "weekendPrice": "4300,5500,6500,6500,4300"
-    },
-    {
-      "__outstatic": {
-        "commit": "645dd95e6daf8b6db13bd972ecc31f7ea09ff02b",
-        "hash": "336837615",
+        "commit": "149fb0d5827fe7e839171964709978cf8fc12121",
+        "hash": "2151852189",
         "path": "outstatic/content/ships/krajanek-600.md"
       },
       "author": {
@@ -103,8 +80,8 @@
     },
     {
       "__outstatic": {
-        "commit": "cea00aec3dac2753274a6670907efde76e501b16",
-        "hash": "3140867660",
+        "commit": "5eb04d8866d29f2a253f1d63ae6401f7198ccac6",
+        "hash": "4198598057",
         "path": "outstatic/content/ships/hausbot-navis.md"
       },
       "author": {
@@ -124,6 +101,48 @@
     },
     {
       "__outstatic": {
+        "commit": "362abccc101814ea398f5bcf8e609174ad2419f4",
+        "hash": "1632547600",
+        "path": "outstatic/content/ships/krajanek-670.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "ships",
+      "coverImage": "/images/file4-EyNz.jpeg",
+      "description": "Větší typ lodi Krajánek 600, který navíc nabízí prostornější kajutu, vnitřní kormidelnu, a především větší opalovací palubu na přídi. ",
+      "occupied": "https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTxCyobEJnpLcte-37LgDJicoHeCzav2kuXalQK6QDU-kky1Eshz_6VEm0mDfwKUw/pubhtml/sheet?headers=false&gid=144343434",
+      "publishedAt": "2023-10-20T19:26:23.955Z",
+      "slug": "krajanek-670",
+      "status": "published",
+      "title": "KRAJÁNEK 670",
+      "weekPrice": "4100,5300,6300,6300,4100",
+      "weekendPrice": "4300,5500,6500,6500,4300"
+    },
+    {
+      "__outstatic": {
+        "commit": "3069b4650bc432e983a5f128aa0e22cee2b21128",
+        "hash": "3925714947",
+        "path": "outstatic/content/ships/krajanek-672.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "ships",
+      "coverImage": "/images/krajanek672-U0ND.jpg",
+      "description": "Větší typ lodi Krajánek 672, který navíc nabízí prostornější kajutu, vnitřní kormidelnu, a především větší opalovací palubu na přídi.",
+      "occupied": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTDzk-BxFl7VEWSIzluwDN4IsXvVILf3r3tTaqvxJhJKMN_xYeQeLinPou1RMBbRw/pubhtml?gid=144343434&single=true",
+      "publishedAt": "2023-10-26T18:31:08.735Z",
+      "slug": "krajanek-672",
+      "status": "published",
+      "title": "KRAJÁNEK 672",
+      "weekPrice": "4100,5300,6500,6500,4100",
+      "weekendPrice": "4300,5500,6200,6200,4300"
+    },
+    {
+      "__outstatic": {
         "commit": "de5c44f0de0c996dbbf4ebe0b17ec4b1d0439d71",
         "hash": "1515179513",
         "path": "outstatic/content/projects/priprava-na-pobyt.md"
@@ -139,25 +158,6 @@
       "slug": "priprava-na-pobyt",
       "status": "published",
       "title": "Příprava na pobyt"
-    },
-    {
-      "__outstatic": {
-        "commit": "5d3c91d6c178fabefab7c43243a5bc8a7aa85c67",
-        "hash": "1538221597",
-        "path": "outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "",
-      "lang": "en",
-      "publishedAt": "2023-11-25T09:58:36.407Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Home"
     }
   ]
 }
