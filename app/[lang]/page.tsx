@@ -54,7 +54,7 @@ async function getData({ params }: Params) {
   const db = await load()
 
   const page = await db
-    .find({ collection, lang: params.lang }, ['content', 'slug', 'title'])
+    .find({ collection, lang: params.lang }, ['content', 'slug', 'title', 'lang'])
     .first()
 
   const content = await markdownToHtml(page.content)
@@ -88,6 +88,6 @@ async function getData({ params }: Params) {
 
 
 export async function generateStaticParams() {
-  const pages = getDocuments(collection)
+  const pages = getDocuments(collection, ["lang"])
   return pages.map((doc) => ({ lang: doc.lang }))
 }
