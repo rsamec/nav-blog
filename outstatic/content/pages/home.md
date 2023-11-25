@@ -1,5 +1,5 @@
 ---
-title: 'Home'
+title: 'Lodě na řece'
 status: 'published'
 author:
   name: 'Roman Samec'
