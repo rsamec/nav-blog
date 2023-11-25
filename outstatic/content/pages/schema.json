@@ -1,0 +1,13 @@
+{
+  "title": "pages",
+  "type": "object",
+  "properties": {
+    "lang": {
+      "required": true,
+      "description": "Language",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "lang"
+    }
+  }
+}
