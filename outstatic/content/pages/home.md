@@ -8,7 +8,7 @@ slug: 'home'
 description: ''
 coverImage: ''
 lang: 'en'
-publishedAt: '2023-11-25T09:58:36.407Z'
+publishedAt: '2023-11-25T10:00:41.521Z'
 ---
 
-*We offer to rent a ship without any permissions. Come to spend a vacation with your family.*
+*We offer to rent a ships without any driving licenses. Como to spend a wonderful time with your family.*
