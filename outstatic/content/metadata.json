@@ -1,26 +1,7 @@
 {
-  "commit": "54e90b0ba7f5cc631f4c8187d1bcd28e7aa1277f",
-  "generated": "2023-11-25T10:00:22.449Z",
+  "commit": "0ec0461d2394d682321c68ff7a66f2a7a19bbb2c",
+  "generated": "2023-11-25T10:01:07.721Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "568c78a460f49d3584349d1f86da129c52f4c05a",
-        "hash": "3238455151",
-        "path": "outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "",
-      "lang": "en",
-      "publishedAt": "2023-11-25T10:03:20.908Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Home"
-    },
     {
       "__outstatic": {
         "commit": "1c6d13a7216c29d86ab7abcbfab7f6879dfc201c",
@@ -161,9 +142,9 @@
     },
     {
       "__outstatic": {
-        "commit": "54e90b0ba7f5cc631f4c8187d1bcd28e7aa1277f",
-        "hash": "2301978573",
-        "path": "outstatic/content/pages/lode-na-rece.md"
+        "commit": "0ec0461d2394d682321c68ff7a66f2a7a19bbb2c",
+        "hash": "1239490280",
+        "path": "outstatic/content/pages/home.md"
       },
       "author": {
         "name": "Roman Samec",
@@ -174,7 +155,7 @@
       "description": "",
       "lang": "cs",
       "publishedAt": "2023-11-25T10:06:07.340Z",
-      "slug": "lode-na-rece",
+      "slug": "home",
       "status": "published",
       "title": "Lodě na řece"
     }

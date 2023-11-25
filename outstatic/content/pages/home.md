@@ -1,5 +1,5 @@
 ---
-title: 'Home'
+title: 'Lodě na řece'
 status: 'published'
 author:
   name: 'Roman Samec'
@@ -7,8 +7,8 @@ author:
 slug: 'home'
 description: ''
 coverImage: ''
-lang: 'en'
-publishedAt: '2023-11-25T10:03:20.908Z'
+lang: 'cs'
+publishedAt: '2023-11-25T10:06:07.340Z'
 ---
 
-We offer to rent ships without any driving lincences. Come to spend a wonderful time with your family.
+*Nabízíme zapůjčení obytných lodí na Vaši dovolenou, a to bez jakéhokoli oprávnění či zkoušek. Místo pro Vaši aktivní dovolenou s rodinou nebo přijeďte na ryby. Netradiční rekreace pro rodiny s dětmi.*
