@@ -1,6 +1,6 @@
 {
-  "commit": "4a78d81ec3fee43e1ad1d4c4f6deff6a4ebe9162",
-  "generated": "Sat, 25 Nov 2023 09:59:08 GMT",
+  "commit": "54e90b0ba7f5cc631f4c8187d1bcd28e7aa1277f",
+  "generated": "2023-11-25T10:00:22.449Z",
   "metadata": [
     {
       "__outstatic": {
@@ -158,6 +158,25 @@
       "title": "HAUSBÓT NAVIS",
       "weekPrice": "7100,9900,12700,12700,7100",
       "weekendPrice": "7800,10900,12100,12100,7800"
+    },
+    {
+      "__outstatic": {
+        "commit": "54e90b0ba7f5cc631f4c8187d1bcd28e7aa1277f",
+        "hash": "2301978573",
+        "path": "outstatic/content/pages/lode-na-rece.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "lang": "cs",
+      "publishedAt": "2023-11-25T10:06:07.340Z",
+      "slug": "lode-na-rece",
+      "status": "published",
+      "title": "Lodě na řece"
     }
   ]
 }
