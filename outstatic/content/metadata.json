@@ -1,6 +1,6 @@
 {
-  "commit": "0ec0461d2394d682321c68ff7a66f2a7a19bbb2c",
-  "generated": "2023-11-25T10:01:07.721Z",
+  "commit": "965e30ab674b0645ae3ebe503b5bab9b4c371a4c",
+  "generated": "2023-11-25T10:01:45.801Z",
   "metadata": [
     {
       "__outstatic": {
@@ -142,9 +142,9 @@
     },
     {
       "__outstatic": {
-        "commit": "0ec0461d2394d682321c68ff7a66f2a7a19bbb2c",
-        "hash": "1239490280",
-        "path": "outstatic/content/pages/home.md"
+        "commit": "965e30ab674b0645ae3ebe503b5bab9b4c371a4c",
+        "hash": "1589142596",
+        "path": "outstatic/content/pages/home-cs.md"
       },
       "author": {
         "name": "Roman Samec",
@@ -155,7 +155,7 @@
       "description": "",
       "lang": "cs",
       "publishedAt": "2023-11-25T10:06:07.340Z",
-      "slug": "home",
+      "slug": "home-cs",
       "status": "published",
       "title": "Lodě na řece"
     }
