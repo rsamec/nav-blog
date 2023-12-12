@@ -31,6 +31,10 @@ Pes, či jiné domácí zvíře na palubě – 150,-
 - 2 dny (9:00 – 17:00 posledního dne - **2 500,-**
 
 Vlastní obrázek
-[loď Krajánek](/images/krajanek-600/2_1.jpg "Krajánek 600")
 
+![loď Krajánek](/images/krajanek-600/2_1.jpg "Krajánek 600")
+
+Vlastní odkaz
+
+[Dostupnost](https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vQ29GwL8ZV_QrKLrOF3HPsAa1GnVTiLC9Pf_4jhbS-1UbK6d-YdjGrq_5ddueDX-Q/pubhtml/sheet?headers=false&gid=144343434)
 
