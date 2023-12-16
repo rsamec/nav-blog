@@ -17,7 +17,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" >
-      <body className={`${inter.className} bg-sky-200`}>
+      <body className={`${inter.className} background`}>
         {/* <BackgroundWithMask></BackgroundWithMask> */}
         <div className=''>
           <div className='dark:text-white'>

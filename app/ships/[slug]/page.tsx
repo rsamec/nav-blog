@@ -190,7 +190,7 @@ export default async function Post(params: Params) {
 
           <section className="grid grid-cols-1 gap-y-5 mb-8 py-5" >
 
-            <iframe src={ship.occupied} className="w-full aspect-video"></iframe>
+            <iframe src={ship.occupied} className="w-full h-[600px]"></iframe>
           </section>
 
           <hr className="border-neutral-200 mt-5 mb-5" />
