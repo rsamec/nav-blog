@@ -5,7 +5,7 @@ author:
   name: 'Roman Samec'
   picture: 'https://avatars.githubusercontent.com/u/5671166?v=4'
 slug: 'krajanek-672'
-description: 'Větší typ lodi Krajánek 672, který navíc nabízí prostornější kajutu, vnitřní kormidelnu, a především větší opalovací palubu na přídi.'
+description: 'Větší typ lodi Krajánek 670, který navíc nabízí prostornější kajutu, vnitřní kormidelnu, a především větší opalovací palubu na přídi.'
 coverImage: '/images/krajanek672-U0ND.jpg'
 occupied: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTDzk-BxFl7VEWSIzluwDN4IsXvVILf3r3tTaqvxJhJKMN_xYeQeLinPou1RMBbRw/pubhtml?gid=144343434&single=true'
 weekendPrice: '4300,5500,6200,6200,4300'
