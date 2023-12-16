@@ -7,7 +7,7 @@ author:
 slug: 'krajanek-673'
 description: 'Větší typ lodi Krajánek 672, který navíc nabízí prostornější kajutu, vnitřní kormidelnu, a především větší opalovací palubu na přídi.'
 coverImage: '/images/krajanek673-YwNz.jpg'
-occupied: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTDzk-BxFl7VEWSIzluwDN4IsXvVILf3r3tTaqvxJhJKMN_xYeQeLinPou1RMBbRw/pubhtml?gid=144343434&single=true'
+occupied: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQ29GwL8ZV_QrKLrOF3HPsAa1GnVTiLC9Pf_4jhbS-1UbK6d-YdjGrq_5ddueDX-Q/pubhtml?gid=144343434&amp;single=true&amp;widget=true&amp;headers=false'
 weekendPrice: '4300,5500,6200,6200,4300'
 weekPrice: '4100,5300,6500,6500,4100'
 publishedAt: '2023-12-16T16:04:35.132Z'

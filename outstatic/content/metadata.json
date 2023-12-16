@@ -1,6 +1,6 @@
 {
-  "commit": "b628aab18047a9c3fd8d348e58008a8518c92e4e",
-  "generated": "Sat, 16 Dec 2023 16:08:24 GMT",
+  "commit": "2976d2a4a36da1ceff6054296cd20ee7e460ffa9",
+  "generated": "2023-12-16T16:26:09.087Z",
   "metadata": [
     {
       "__outstatic": {
@@ -75,27 +75,6 @@
       "slug": "home-cs",
       "status": "published",
       "title": "Lodě na řece"
-    },
-    {
-      "__outstatic": {
-        "commit": "008638beeb0e4e9291a08f22e0104edd76703cee",
-        "hash": "678248734",
-        "path": "outstatic/content/ships/krajanek-673.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "ships",
-      "coverImage": "/images/krajanek673-YwNz.jpg",
-      "description": "Větší typ lodi Krajánek 672, který navíc nabízí prostornější kajutu, vnitřní kormidelnu, a především větší opalovací palubu na přídi.",
-      "occupied": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTDzk-BxFl7VEWSIzluwDN4IsXvVILf3r3tTaqvxJhJKMN_xYeQeLinPou1RMBbRw/pubhtml?gid=144343434&single=true",
-      "publishedAt": "2023-12-16T16:04:35.132Z",
-      "slug": "krajanek-673",
-      "status": "published",
-      "title": "KRAJANEK 670/3",
-      "weekPrice": "4100,5300,6500,6500,4100",
-      "weekendPrice": "4300,5500,6200,6200,4300"
     },
     {
       "__outstatic": {
@@ -177,6 +156,27 @@
       "slug": "priprava-na-pobyt",
       "status": "published",
       "title": "Příprava na pobyt"
+    },
+    {
+      "__outstatic": {
+        "commit": "2976d2a4a36da1ceff6054296cd20ee7e460ffa9",
+        "hash": "1335391664",
+        "path": "outstatic/content/ships/krajanek-673.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "ships",
+      "coverImage": "/images/krajanek673-YwNz.jpg",
+      "description": "Větší typ lodi Krajánek 672, který navíc nabízí prostornější kajutu, vnitřní kormidelnu, a především větší opalovací palubu na přídi.",
+      "occupied": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ29GwL8ZV_QrKLrOF3HPsAa1GnVTiLC9Pf_4jhbS-1UbK6d-YdjGrq_5ddueDX-Q/pubhtml?gid=144343434&amp;single=true&amp;widget=true&amp;headers=false",
+      "publishedAt": "2023-12-16T16:04:35.132Z",
+      "slug": "krajanek-673",
+      "status": "published",
+      "title": "KRAJÁNEK 670/3",
+      "weekPrice": "4100,5300,6500,6500,4100",
+      "weekendPrice": "4300,5500,6200,6200,4300"
     }
   ]
 }
