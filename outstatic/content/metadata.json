@@ -1,6 +1,6 @@
 {
-  "commit": "f157c3db6981dcf8e46d1fa9625478c2288130ec",
-  "generated": "2023-12-16T16:04:46.045Z",
+  "commit": "47c17f0d1f8d19db56ebf05f83609d3ca1074efa",
+  "generated": "2023-12-16T16:05:11.206Z",
   "metadata": [
     {
       "__outstatic": {
@@ -180,8 +180,8 @@
     },
     {
       "__outstatic": {
-        "commit": "f157c3db6981dcf8e46d1fa9625478c2288130ec",
-        "hash": "678248734",
+        "commit": "47c17f0d1f8d19db56ebf05f83609d3ca1074efa",
+        "hash": "869676932",
         "path": "outstatic/content/ships/krajanek-673.md"
       },
       "author": {
@@ -195,7 +195,7 @@
       "publishedAt": "2023-12-16T16:04:35.132Z",
       "slug": "krajanek-673",
       "status": "published",
-      "title": "KRAJANEK 670/3",
+      "title": "KRAJÁNEK 670/3",
       "weekPrice": "4100,5300,6500,6500,4100",
       "weekendPrice": "4300,5500,6200,6200,4300"
     }

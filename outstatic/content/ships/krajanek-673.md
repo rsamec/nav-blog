@@ -1,5 +1,5 @@
 ---
-title: 'KRAJANEK 670/3'
+title: 'KRAJÁNEK 670/3'
 status: 'published'
 author:
   name: 'Roman Samec'
