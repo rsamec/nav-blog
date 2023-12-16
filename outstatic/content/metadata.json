@@ -1,6 +1,6 @@
 {
-  "commit": "47c17f0d1f8d19db56ebf05f83609d3ca1074efa",
-  "generated": "2023-12-16T16:05:11.206Z",
+  "commit": "b0e4a047f03932ca358d623bc5f341ce0c880f5b",
+  "generated": "2023-12-16T16:05:22.118Z",
   "metadata": [
     {
       "__outstatic": {
@@ -75,27 +75,6 @@
       "slug": "home-cs",
       "status": "published",
       "title": "Lodě na řece"
-    },
-    {
-      "__outstatic": {
-        "commit": "c53683d1853015723136939ad05004982c3597ae",
-        "hash": "669082929",
-        "path": "outstatic/content/ships/krajanek-600.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "ships",
-      "coverImage": "/images/krajanek600-A5MD.jpg",
-      "description": "Jednoduše navržená loď pro nenáročný pár nebo skupinku přátel. Díky jejím rozměrům můžete přenocovat na jakémkoliv splavnému úseku vltavské kaskády – a to se nedá říct o každé lodi.",
-      "occupied": "https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vQ29GwL8ZV_QrKLrOF3HPsAa1GnVTiLC9Pf_4jhbS-1UbK6d-YdjGrq_5ddueDX-Q/pubhtml/sheet?headers=false&gid=144343434",
-      "publishedAt": "2023-10-26T18:40:38.260Z",
-      "slug": "krajanek-600",
-      "status": "published",
-      "title": "KRAJÁNEK 600",
-      "weekPrice": "4100,5300,6500,6500,4100",
-      "weekendPrice": "4300,5550,6200,6200,4300"
     },
     {
       "__outstatic": {
