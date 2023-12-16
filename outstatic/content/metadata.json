@@ -1,6 +1,6 @@
 {
-  "commit": "11904dd8a46ff5efe8b6e0cd18dad01d346f1e86",
-  "generated": "2023-12-16T16:08:06.943Z",
+  "commit": "b628aab18047a9c3fd8d348e58008a8518c92e4e",
+  "generated": "Sat, 16 Dec 2023 16:08:24 GMT",
   "metadata": [
     {
       "__outstatic": {
@@ -99,6 +99,27 @@
     },
     {
       "__outstatic": {
+        "commit": "fc08b2b202afda5a2034d0611cdf9b8c207190e0",
+        "hash": "2001399609",
+        "path": "outstatic/content/ships/krajanek-672.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "ships",
+      "coverImage": "/images/krajanek672-U0ND.jpg",
+      "description": "Větší typ lodi Krajánek 672, který navíc nabízí prostornější kajutu, vnitřní kormidelnu, a především větší opalovací palubu na přídi.",
+      "occupied": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTDzk-BxFl7VEWSIzluwDN4IsXvVILf3r3tTaqvxJhJKMN_xYeQeLinPou1RMBbRw/pubhtml?gid=144343434&single=true",
+      "publishedAt": "2023-10-26T18:31:08.735Z",
+      "slug": "krajanek-672",
+      "status": "published",
+      "title": "KRAJÁNEK 672",
+      "weekPrice": "4100,5300,6500,6500,4100",
+      "weekendPrice": "4300,5500,6200,6200,4300"
+    },
+    {
+      "__outstatic": {
         "commit": "362abccc101814ea398f5bcf8e609174ad2419f4",
         "hash": "1632547600",
         "path": "outstatic/content/ships/krajanek-670.md"
@@ -156,27 +177,6 @@
       "slug": "priprava-na-pobyt",
       "status": "published",
       "title": "Příprava na pobyt"
-    },
-    {
-      "__outstatic": {
-        "commit": "11904dd8a46ff5efe8b6e0cd18dad01d346f1e86",
-        "hash": "4088939319",
-        "path": "outstatic/content/ships/krajanek-672.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "ships",
-      "coverImage": "/images/krajanek672-U0ND.jpg",
-      "description": "Větší typ lodi Krajánek 670, který navíc nabízí prostornější kajutu, vnitřní kormidelnu, a především větší opalovací palubu na přídi.",
-      "occupied": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTDzk-BxFl7VEWSIzluwDN4IsXvVILf3r3tTaqvxJhJKMN_xYeQeLinPou1RMBbRw/pubhtml?gid=144343434&single=true",
-      "publishedAt": "2023-10-26T18:31:08.735Z",
-      "slug": "krajanek-672",
-      "status": "published",
-      "title": "KRAJÁNEK 672",
-      "weekPrice": "4100,5300,6500,6500,4100",
-      "weekendPrice": "4300,5500,6200,6200,4300"
     }
   ]
 }
