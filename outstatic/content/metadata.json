@@ -1,6 +1,6 @@
 {
   "commit": "b628aab18047a9c3fd8d348e58008a8518c92e4e",
-  "generated": "Sat, 16 Dec 2023 16:06:32 GMT",
+  "generated": "Sat, 16 Dec 2023 16:08:24 GMT",
   "metadata": [
     {
       "__outstatic": {
@@ -100,7 +100,7 @@
     {
       "__outstatic": {
         "commit": "fc08b2b202afda5a2034d0611cdf9b8c207190e0",
-        "hash": "3818838910",
+        "hash": "2001399609",
         "path": "outstatic/content/ships/krajanek-672.md"
       },
       "author": {
@@ -116,7 +116,7 @@
       "status": "published",
       "title": "KRAJÁNEK 672",
       "weekPrice": "4100,5300,6500,6500,4100",
-      "weekendPrice": "4500,5500,6200,6200,4300"
+      "weekendPrice": "4300,5500,6200,6200,4300"
     },
     {
       "__outstatic": {
