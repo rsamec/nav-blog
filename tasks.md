@@ -1,4 +1,4 @@
-- [x] nakopirovani balicku (artifactu) pres FTP, nakopirovani do adresare  nav-blog prefix
+- [] nakopirovani balicku (artifactu) pres FTP, nakopirovani do adresare  nav-blog prefix
 - [x] pozadi stranky - obrazek nebo grandiet - svetle modre
 - [] kapacita v excel vs. kalendar - excel na vysku - 2 roky na vysku
 - [] dalsi informace v paticce - dostanu nejaky text

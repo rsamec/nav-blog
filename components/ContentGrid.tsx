@@ -41,7 +41,7 @@ const ContentGrid = ({
                   priority={priority && id <= 2}
                 />
                 {collection === 'projects' && (
-                  <h2 className="p-2 bg-opacity-80 bg-white text-center whitespace-nowrap font-bold text-3xl absolute top-1/2 left-1/2 -translate-y-1/2 -translate-x-1/2 shadow-lg rounded-lg">
+                  <h2 className="p-2 bg-opacity-80 bg-white text-black text-center whitespace-nowrap font-bold text-3xl absolute top-1/2 left-1/2 -translate-y-1/2 -translate-x-1/2 shadow-lg rounded-lg">
                     {item.title}
                   </h2>
                 )}
