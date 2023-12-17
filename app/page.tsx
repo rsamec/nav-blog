@@ -9,9 +9,9 @@ export default async function Index() {
 
   return (
     <Layout>      
-      <div className='hidden md:block relative h-72'>
+      {/* <div className='hidden md:block relative h-72'>
         <Background></Background>
-      </div>
+      </div> */}
       <div className="max-w-6xl mx-auto px-5">
         <section className="mt-16 mb-16 md:mb-12">          
           <h2 className="mb-8 text-5xl md:text-6xl font-bold tracking-tighter leading-tight">
@@ -60,7 +60,7 @@ async function getData() {
       'description',
       'tags'
     ])
-    .sort({ publishedAt: -1 })
+    .sort({ slug: 1 })
     .toArray()
 
   const allProjects = await db
@@ -70,7 +70,10 @@ async function getData() {
 
   return {
     content,
-    allPosts,
+    allPosts: allPosts.sort((f,s) => {
+      const orders = ['housbot-navis','krajanek-673','krajanek-672','krajanek-670'];
+      return orders.indexOf(f.slug) - orders.indexOf(s.slug);
+    }),
     allProjects
   }
 }
