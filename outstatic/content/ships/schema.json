@@ -22,6 +22,13 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "WeekPrice"
+    },
+    "equipment": {
+      "required": true,
+      "description": "",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "Equipment"
     }
   }
 }
