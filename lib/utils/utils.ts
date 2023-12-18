@@ -1,6 +1,7 @@
 export function absoluteUrl(path: string) {
   //return path;
-  return `${process.env?.NEXT_PUBLIC_APP_URL || ''}${path}`
+  const rootSegment = process.env.NEXT_PUBLIC_REPO_SLUG;
+  return `${rootSegment ? `/${rootSegment}`:''}${path}`
 }
 
 export function imageUrl(image: string | undefined) {
