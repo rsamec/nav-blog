@@ -1,6 +1,6 @@
 {
-  "commit": "1031ce60be2b593f450738dea20a3ace0b932f33",
-  "generated": "2023-12-18T19:12:34.230Z",
+  "commit": "291351d50ba9762a80efa6d30a8ded3d5ffe7359",
+  "generated": "Mon, 18 Dec 2023 19:12:39 GMT",
   "metadata": [
     {
       "__outstatic": {
@@ -23,6 +23,25 @@
     },
     {
       "__outstatic": {
+        "commit": "124e9ae6b83eeb7d40fc9a8486445e0a1f60f635",
+        "hash": "105652004",
+        "path": "outstatic/content/pages/about.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "/images/hausboat-uxmj-Q5OD.jpeg",
+      "description": "Půjčovna lodí Navis je rodinná firma, která vznikla v roce 2013. ",
+      "lang": "cs",
+      "publishedAt": "2023-12-18T17:46:43.156Z",
+      "slug": "about",
+      "status": "published",
+      "title": "O nás"
+    },
+    {
+      "__outstatic": {
         "commit": "bd30d6a1daf1fac74a30057a89adde691d05b838",
         "hash": "1129788257",
         "path": "outstatic/content/shipequipments/hausbot-navis.md"
@@ -41,24 +60,6 @@
     },
     {
       "__outstatic": {
-        "commit": "d90a010eab49bb1ce8670bcf80b9b100aa3d7627",
-        "hash": "1277410107",
-        "path": "outstatic/content/projects/hausbot.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "/images/hausboat-Q5OT.jpeg",
-      "description": "",
-      "publishedAt": "2023-10-26T11:35:27.771Z",
-      "slug": "hausbot",
-      "status": "published",
-      "title": "Hausbot"
-    },
-    {
-      "__outstatic": {
         "commit": "de5c44f0de0c996dbbf4ebe0b17ec4b1d0439d71",
         "hash": "1515179513",
         "path": "outstatic/content/projects/priprava-na-pobyt.md"
@@ -74,6 +75,24 @@
       "slug": "priprava-na-pobyt",
       "status": "published",
       "title": "Příprava na pobyt"
+    },
+    {
+      "__outstatic": {
+        "commit": "d90a010eab49bb1ce8670bcf80b9b100aa3d7627",
+        "hash": "1277410107",
+        "path": "outstatic/content/projects/hausbot.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "/images/hausboat-Q5OT.jpeg",
+      "description": "",
+      "publishedAt": "2023-10-26T11:35:27.771Z",
+      "slug": "hausbot",
+      "status": "published",
+      "title": "Hausbot"
     },
     {
       "__outstatic": {
@@ -217,25 +236,6 @@
       "slug": "krajanek-670",
       "status": "published",
       "title": "Krajánek 670"
-    },
-    {
-      "__outstatic": {
-        "commit": "1031ce60be2b593f450738dea20a3ace0b932f33",
-        "hash": "3985752211",
-        "path": "outstatic/content/pages/about.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "/images/hausboat-uxmj-Q5OD.jpeg",
-      "description": "",
-      "lang": "cs",
-      "publishedAt": "2023-12-18T17:46:43.156Z",
-      "slug": "about",
-      "status": "published",
-      "title": "O nás"
     }
   ]
 }
