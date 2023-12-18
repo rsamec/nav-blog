@@ -1,6 +1,6 @@
 {
-  "commit": "6557c006c11a6173218d07128a6f8022419d4be1",
-  "generated": "Mon, 18 Dec 2023 17:12:03 GMT",
+  "commit": "794321db2530286568ff7a7e62250193819837ed",
+  "generated": "2023-12-18T17:42:39.759Z",
   "metadata": [
     {
       "__outstatic": {
@@ -217,6 +217,25 @@
       "title": "HAUSBÓT NAVIS",
       "weekPrice": "7100,9900,12700,12700,7100",
       "weekendPrice": "7800,10900,12100,12100,7800"
+    },
+    {
+      "__outstatic": {
+        "commit": "794321db2530286568ff7a7e62250193819837ed",
+        "hash": "1222610685",
+        "path": "outstatic/content/pages/o-nas.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "lang": "cz",
+      "publishedAt": "2023-12-18T17:46:43.156Z",
+      "slug": "o-nas",
+      "status": "published",
+      "title": "O nás"
     }
   ]
 }
