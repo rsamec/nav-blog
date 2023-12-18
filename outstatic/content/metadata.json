@@ -1,6 +1,6 @@
 {
-  "commit": "626374ce5fef9bf0629faec03df2b505082f1070",
-  "generated": "Mon, 18 Dec 2023 17:47:39 GMT",
+  "commit": "6f47602d97fb47ff769ff1ce4c04d92fa0cfeb33",
+  "generated": "2023-12-18T19:08:54.689Z",
   "metadata": [
     {
       "__outstatic": {
@@ -20,25 +20,6 @@
       "slug": "home-cs",
       "status": "published",
       "title": "Lodě na řece"
-    },
-    {
-      "__outstatic": {
-        "commit": "f64ed5c218ff99913a72022fe2acba6140dc6ff1",
-        "hash": "4195871650",
-        "path": "outstatic/content/pages/about.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "",
-      "lang": "cs",
-      "publishedAt": "2023-12-18T17:46:43.156Z",
-      "slug": "about",
-      "status": "published",
-      "title": "O nás"
     },
     {
       "__outstatic": {
@@ -236,6 +217,25 @@
       "slug": "krajanek-670",
       "status": "published",
       "title": "Krajánek 670"
+    },
+    {
+      "__outstatic": {
+        "commit": "6f47602d97fb47ff769ff1ce4c04d92fa0cfeb33",
+        "hash": "105652004",
+        "path": "outstatic/content/pages/about.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "/images/hausboat-uxmj-Q5OD.jpeg",
+      "description": "Půjčovna lodí Navis je rodinná firma, která vznikla v roce 2013. ",
+      "lang": "cs",
+      "publishedAt": "2023-12-18T17:46:43.156Z",
+      "slug": "about",
+      "status": "published",
+      "title": "O nás"
     }
   ]
 }

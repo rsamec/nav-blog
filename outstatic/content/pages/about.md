@@ -5,8 +5,8 @@ author:
   name: 'Roman Samec'
   picture: 'https://avatars.githubusercontent.com/u/5671166?v=4'
 slug: 'about'
-description: ''
-coverImage: ''
+description: 'Půjčovna lodí Navis je rodinná firma, která vznikla v roce 2013. '
+coverImage: '/images/hausboat-uxmj-Q5OD.jpeg'
 lang: 'cs'
 publishedAt: '2023-12-18T17:46:43.156Z'
 ---
