@@ -7,7 +7,7 @@ author:
 slug: 'about'
 description: ''
 coverImage: ''
-lang: 'cz'
+lang: 'cs'
 publishedAt: '2023-12-18T17:46:43.156Z'
 ---
 

@@ -1,6 +1,6 @@
 {
-  "commit": "4a2b370890ca0c207979f5826a4fbeef444af47e",
-  "generated": "Mon, 18 Dec 2023 17:45:21 GMT",
+  "commit": "1c44bea6fda9457695095a0019182d61bc8bccb8",
+  "generated": "2023-12-18T17:47:19.618Z",
   "metadata": [
     {
       "__outstatic": {
@@ -20,25 +20,6 @@
       "slug": "home-cs",
       "status": "published",
       "title": "Lodě na řece"
-    },
-    {
-      "__outstatic": {
-        "commit": "ade702e8be05c132b801163174a198d6a6c69502",
-        "hash": "2337002516",
-        "path": "outstatic/content/pages/about.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "",
-      "lang": "cz",
-      "publishedAt": "2023-12-18T17:46:43.156Z",
-      "slug": "about",
-      "status": "published",
-      "title": "O nás"
     },
     {
       "__outstatic": {
@@ -236,6 +217,25 @@
       "title": "HAUSBÓT NAVIS",
       "weekPrice": "7100,9900,12700,12700,7100",
       "weekendPrice": "7800,10900,12100,12100,7800"
+    },
+    {
+      "__outstatic": {
+        "commit": "1c44bea6fda9457695095a0019182d61bc8bccb8",
+        "hash": "4195871650",
+        "path": "outstatic/content/pages/about.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "lang": "cs",
+      "publishedAt": "2023-12-18T17:46:43.156Z",
+      "slug": "about",
+      "status": "published",
+      "title": "O nás"
     }
   ]
 }
