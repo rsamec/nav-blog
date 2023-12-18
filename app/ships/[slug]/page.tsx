@@ -16,6 +16,7 @@ type Ship = {
   occupied: string
   weekPrice: string,
   weekendPrice: string,
+  equipment: string
 
 } & OstDocument
 
@@ -186,17 +187,21 @@ export default async function Post(params: Params) {
             </div>
           </section>
 
-          <hr className="border-neutral-200 mt-5 mb-5" />
+          <details className="py-5 [&_svg]:open:-rotate-180">
+            <summary className="text-xl font-bold">Výbava lodě a technická data</summary>
+            <section className="grid grid-cols-1 py-5" >
+              <div
+                className="space-y-2 [&>ul]:list-disc [&>ul]:list-inside"
+                dangerouslySetInnerHTML={{ __html: ship.equipmentContent }}
+              />
+            </section>
+          </details>
 
           <section className="grid grid-cols-1 gap-y-5 mb-8 py-5" >
-
             <iframe src={ship.occupied} className="w-full h-[600px]"></iframe>
           </section>
 
           <hr className="border-neutral-200 mt-5 mb-5" />
-          {/* <details className="p-4 [&_svg]:open:-rotate-180">
-            <summary>Galerie obrazků</summary> */}
-
 
           <section className="grid grid-cols-1 md:grid-cols-3 gap-4">
 
@@ -216,10 +221,7 @@ export default async function Post(params: Params) {
                 ))}
               </div>)) : null
             }
-
           </section>
-          {/* </details> */}
-
         </article>
       </div>
     </Layout>
@@ -241,18 +243,27 @@ async function getData({ params }: Params) {
       'tags',
       'occupied',
       'weekPrice',
-      'weekendPrice'
+      'weekendPrice',
+      'equipment',
     ])
     .first()
 
+  const shipEquipment = await db
+    .find<OstDocument>({ collection: 'shipequipments', slug: post.equipment }, [
+      'content'
+    ]).first()
+
   const content = await markdownToHtml(post.content)
+
+  const equipmentContent = await markdownToHtml(shipEquipment?.content ?? "N/A");
 
   const galleryImages = await getImages(params.slug);
 
   return {
     ...post,
     galleryImages,
-    content
+    content,
+    equipmentContent,
   }
 }
 
