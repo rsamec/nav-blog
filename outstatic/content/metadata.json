@@ -1,6 +1,6 @@
 {
-  "commit": "2376159be935b51ded8f79a682426b08077ae59b",
-  "generated": "Mon, 18 Dec 2023 17:44:23 GMT",
+  "commit": "cf85a04c603031c1a0719560afb7027a4d068fc5",
+  "generated": "2023-12-18T17:44:59.985Z",
   "metadata": [
     {
       "__outstatic": {
@@ -114,25 +114,6 @@
     },
     {
       "__outstatic": {
-        "commit": "71c01a958b1293382640e7b3b7956b55628ec255",
-        "hash": "1222610685",
-        "path": "outstatic/content/pages/o-nas.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "",
-      "lang": "cz",
-      "publishedAt": "2023-12-18T17:46:43.156Z",
-      "slug": "o-nas",
-      "status": "published",
-      "title": "O nás"
-    },
-    {
-      "__outstatic": {
         "commit": "48ce9a35186dba8303f228d5328510d9a3d77592",
         "hash": "2819910249",
         "path": "outstatic/content/ships/krajanek-673.md"
@@ -236,6 +217,25 @@
       "slug": "krajanek-670",
       "status": "published",
       "title": "Krajánek 670"
+    },
+    {
+      "__outstatic": {
+        "commit": "cf85a04c603031c1a0719560afb7027a4d068fc5",
+        "hash": "2337002516",
+        "path": "outstatic/content/pages/about.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "lang": "cz",
+      "publishedAt": "2023-12-18T17:46:43.156Z",
+      "slug": "about",
+      "status": "published",
+      "title": "O nás"
     }
   ]
 }
