@@ -1,6 +1,6 @@
 {
-  "commit": "b6b64927a3b1bea4358622fe427fc6ef9abdee87",
-  "generated": "Mon, 18 Dec 2023 17:10:04 GMT",
+  "commit": "6557c006c11a6173218d07128a6f8022419d4be1",
+  "generated": "Mon, 18 Dec 2023 17:12:03 GMT",
   "metadata": [
     {
       "__outstatic": {
@@ -115,7 +115,7 @@
     {
       "__outstatic": {
         "commit": "48ce9a35186dba8303f228d5328510d9a3d77592",
-        "hash": "1335391664",
+        "hash": "2819910249",
         "path": "outstatic/content/ships/krajanek-673.md"
       },
       "author": {
@@ -124,33 +124,13 @@
       },
       "collection": "ships",
       "coverImage": "/images/krajanek673-YwNz.jpg",
-      "description": "Větší typ lodi Krajánek 672, který navíc nabízí prostornější kajutu, vnitřní kormidelnu, a především větší opalovací palubu na přídi.",
+      "description": "Tato loď je nejnovější z typu Krajánků. V kajutě je dostatek prostoru pro 4 osoby, včetně spaní a vybavení, s řízením z vnitřní kormidelny a s opalovací palubou na přídi. Vhodné pro rodiny s dětmi nebo samostatný pár, kteří hledají pohodlnou a cenově dostupnou volbu.",
+      "equipment": "krajanek-670",
       "occupied": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ29GwL8ZV_QrKLrOF3HPsAa1GnVTiLC9Pf_4jhbS-1UbK6d-YdjGrq_5ddueDX-Q/pubhtml?gid=144343434&amp;single=true&amp;widget=true&amp;headers=false",
       "publishedAt": "2023-12-16T16:04:35.132Z",
       "slug": "krajanek-673",
       "status": "published",
       "title": "KRAJÁNEK 670/3",
-      "weekPrice": "4100,5300,6500,6500,4100",
-      "weekendPrice": "4300,5500,6200,6200,4300"
-    },
-    {
-      "__outstatic": {
-        "commit": "163c728d34790aac7f411ee487a158a62c3a9265",
-        "hash": "4088939319",
-        "path": "outstatic/content/ships/krajanek-672.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "ships",
-      "coverImage": "/images/krajanek672-U0ND.jpg",
-      "description": "Větší typ lodi Krajánek 670, který navíc nabízí prostornější kajutu, vnitřní kormidelnu, a především větší opalovací palubu na přídi.",
-      "occupied": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTDzk-BxFl7VEWSIzluwDN4IsXvVILf3r3tTaqvxJhJKMN_xYeQeLinPou1RMBbRw/pubhtml?gid=144343434&single=true",
-      "publishedAt": "2023-10-26T18:31:08.735Z",
-      "slug": "krajanek-672",
-      "status": "published",
-      "title": "KRAJÁNEK 672",
       "weekPrice": "4100,5300,6500,6500,4100",
       "weekendPrice": "4300,5500,6200,6200,4300"
     },
@@ -178,24 +158,25 @@
     },
     {
       "__outstatic": {
-        "commit": "c4462209c990cd8a2fa55ad8296b3771c4b32e0f",
-        "hash": "4198598057",
-        "path": "outstatic/content/ships/hausbot-navis.md"
+        "commit": "163c728d34790aac7f411ee487a158a62c3a9265",
+        "hash": "519142115",
+        "path": "outstatic/content/ships/krajanek-672.md"
       },
       "author": {
         "name": "Roman Samec",
         "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
       },
       "collection": "ships",
-      "coverImage": "/images/hausboat-UxMj.jpeg",
-      "description": "Ve své kategorii plavidel nabízí hausbót nezvykle velké rozměry venkovní paluby o celkové ploše 15 m2. Ubytování je ve dvou kajutách, kde se na třech dvojlůžkách vyspí pohodlně 6 osob. ",
-      "occupied": "https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTymAEq0XAJtuZYvVIvsA7aWQrBmxbN1Do9aWusxsLHv21m5R-YkLrlzsLlQCrgQA/pubhtml/sheet?headers=false&gid=144343434",
-      "publishedAt": "2023-10-22T10:41:13.953Z",
-      "slug": "hausbot-navis",
+      "coverImage": "/images/krajanek672-U0ND.jpg",
+      "description": "Tato loď je novější z typu Krajánků. V kajutě je dostatek prostoru pro 4 osoby, včetně spaní a vybavení, s řízením z vnitřní kormidelny a s opalovací palubou na přídi. Vhodné pro rodiny s dětmi nebo samostatný pár, kteří hledají pohodlnou a cenově dostupnou volbu.",
+      "equipment": "krajanek-670",
+      "occupied": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTDzk-BxFl7VEWSIzluwDN4IsXvVILf3r3tTaqvxJhJKMN_xYeQeLinPou1RMBbRw/pubhtml?gid=144343434&single=true",
+      "publishedAt": "2023-10-26T18:31:08.735Z",
+      "slug": "krajanek-672",
       "status": "published",
-      "title": "HAUSBÓT NAVIS",
-      "weekPrice": "7100,9900,12700,12700,7100",
-      "weekendPrice": "7800,10900,12100,12100,7800"
+      "title": "KRAJÁNEK 670/2",
+      "weekPrice": "4100,5300,6500,6500,4100",
+      "weekendPrice": "4300,5500,6200,6200,4300"
     },
     {
       "__outstatic": {
@@ -214,6 +195,28 @@
       "slug": "krajanek-670",
       "status": "published",
       "title": "Krajánek 670"
+    },
+    {
+      "__outstatic": {
+        "commit": "c4462209c990cd8a2fa55ad8296b3771c4b32e0f",
+        "hash": "2248448075",
+        "path": "outstatic/content/ships/hausbot-navis.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "ships",
+      "coverImage": "/images/hausboat-UxMj.jpeg",
+      "description": "Je větší plavidlo a se svými rozměry 3 x 9 m nabízí ubytování pro 6 osob ve dvou kajutách, WC a vybavenou kuchyňku. Velkou předností je i prostorná horní paluba. Hausbót je ideální pro rodiny s dětmi nebo pro skupinu přátel.",
+      "equipment": "hausbot-navis",
+      "occupied": "https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTymAEq0XAJtuZYvVIvsA7aWQrBmxbN1Do9aWusxsLHv21m5R-YkLrlzsLlQCrgQA/pubhtml/sheet?headers=false&gid=144343434",
+      "publishedAt": "2023-10-22T10:41:13.953Z",
+      "slug": "hausbot-navis",
+      "status": "published",
+      "title": "HAUSBÓT NAVIS",
+      "weekPrice": "7100,9900,12700,12700,7100",
+      "weekendPrice": "7800,10900,12100,12100,7800"
     }
   ]
 }
