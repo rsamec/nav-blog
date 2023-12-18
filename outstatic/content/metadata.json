@@ -1,6 +1,6 @@
 {
   "commit": "b6b64927a3b1bea4358622fe427fc6ef9abdee87",
-  "generated": "Mon, 18 Dec 2023 16:42:47 GMT",
+  "generated": "Mon, 18 Dec 2023 17:09:58 GMT",
   "metadata": [
     {
       "__outstatic": {
@@ -157,7 +157,7 @@
     {
       "__outstatic": {
         "commit": "dfb9571b1bf068806ba1555711edbf6f8636dea2",
-        "hash": "1632547600",
+        "hash": "397936097",
         "path": "outstatic/content/ships/krajanek-670.md"
       },
       "author": {
@@ -166,12 +166,13 @@
       },
       "collection": "ships",
       "coverImage": "/images/file4-EyNz.jpeg",
-      "description": "Větší typ lodi Krajánek 600, který navíc nabízí prostornější kajutu, vnitřní kormidelnu, a především větší opalovací palubu na přídi. ",
+      "description": "Tato loď je druhá vyrobená z typu Krajánků. V kajutě je dostatek prostoru pro 4 osoby, včetně spaní a vybavení, s řízením z vnitřní kormidelny a s opalovací palubou na přídi. Vhodné pro rodiny s dětmi nebo samostatný pár, kteří hledají pohodlnou a cenově dostupnou volbu.",
+      "equipment": "krajanek-670",
       "occupied": "https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTxCyobEJnpLcte-37LgDJicoHeCzav2kuXalQK6QDU-kky1Eshz_6VEm0mDfwKUw/pubhtml/sheet?headers=false&gid=144343434",
       "publishedAt": "2023-10-20T19:26:23.955Z",
       "slug": "krajanek-670",
       "status": "published",
-      "title": "KRAJÁNEK 670",
+      "title": "KRAJÁNEK 670/1",
       "weekPrice": "4100,5300,6300,6300,4100",
       "weekendPrice": "4300,5500,6500,6500,4300"
     },
