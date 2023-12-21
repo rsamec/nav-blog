@@ -1,26 +1,7 @@
 {
-  "commit": "c1fe150339ca91aa40ad96da196031b25461e3b2",
-  "generated": "2023-12-21T18:25:26.083Z",
+  "commit": "75f075cadbe5efadb4aa34233e97a7598b1211d7",
+  "generated": "Thu, 21 Dec 2023 18:25:43 GMT",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "cc1caf56f75a188e159f97bbb5af8dab4f6d6a8d",
-        "hash": "3985752211",
-        "path": "outstatic/content/pages/about.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "/images/hausboat-uxmj-Q5OD.jpeg",
-      "description": "",
-      "lang": "cs",
-      "publishedAt": "2023-12-18T17:46:43.156Z",
-      "slug": "about",
-      "status": "published",
-      "title": "O nás"
-    },
     {
       "__outstatic": {
         "commit": "a795c83159879cfbae7e3d08c133f9e11328e024",
@@ -39,6 +20,25 @@
       "slug": "home-cs",
       "status": "published",
       "title": "Lodě na řece"
+    },
+    {
+      "__outstatic": {
+        "commit": "cc1caf56f75a188e159f97bbb5af8dab4f6d6a8d",
+        "hash": "3985752211",
+        "path": "outstatic/content/pages/about.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "/images/hausboat-uxmj-Q5OD.jpeg",
+      "description": "",
+      "lang": "cs",
+      "publishedAt": "2023-12-18T17:46:43.156Z",
+      "slug": "about",
+      "status": "published",
+      "title": "O nás"
     },
     {
       "__outstatic": {
@@ -155,6 +155,28 @@
     },
     {
       "__outstatic": {
+        "commit": "dd0ad4090ae0ed9d1d407df83f05134916562f52",
+        "hash": "3524347612",
+        "path": "outstatic/content/ships/krajanek-672.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "ships",
+      "coverImage": "/images/krajanek-a-c5MD.jpeg",
+      "description": "Tato loď je novější z typu Krajánků. V kajutě je dostatek prostoru pro 4 osoby, včetně spaní a vybavení, s řízením z vnitřní kormidelny a s opalovací palubou na přídi. Vhodné pro rodiny s dětmi nebo samostatný pár, kteří hledají pohodlnou a cenově dostupnou volbu.",
+      "equipment": "krajanek-670",
+      "occupied": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTDzk-BxFl7VEWSIzluwDN4IsXvVILf3r3tTaqvxJhJKMN_xYeQeLinPou1RMBbRw/pubhtml?gid=144343434&single=true",
+      "publishedAt": "2023-10-26T18:31:08.735Z",
+      "slug": "krajanek-672",
+      "status": "published",
+      "title": "KRAJÁNEK 670/2",
+      "weekPrice": "4100,5300,6500,6500,4100",
+      "weekendPrice": "4300,5500,6200,6200,4300"
+    },
+    {
+      "__outstatic": {
         "commit": "dfb9571b1bf068806ba1555711edbf6f8636dea2",
         "hash": "397936097",
         "path": "outstatic/content/ships/krajanek-670.md"
@@ -177,25 +199,7 @@
     },
     {
       "__outstatic": {
-        "commit": "19d98b60373091ea2f434427582113ce5eb6500b",
-        "hash": "2530108016",
-        "path": "outstatic/content/shipequipments/krajanek-670.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "shipequipments",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-12-18T16:24:25.183Z",
-      "slug": "krajanek-670",
-      "status": "published",
-      "title": "Krajánek 670"
-    },
-    {
-      "__outstatic": {
-        "commit": "dc0b850a64d6e04b439de02b7f8e2885620c4f9b",
+        "commit": "a86f7810f6e43f1b9793c144ca1535fe33c772fd",
         "hash": "70344",
         "path": "outstatic/content/ships/hausbot-navis.md"
       },
@@ -217,25 +221,21 @@
     },
     {
       "__outstatic": {
-        "commit": "c1fe150339ca91aa40ad96da196031b25461e3b2",
-        "hash": "3524347612",
-        "path": "outstatic/content/ships/krajanek-672.md"
+        "commit": "19d98b60373091ea2f434427582113ce5eb6500b",
+        "hash": "2530108016",
+        "path": "outstatic/content/shipequipments/krajanek-670.md"
       },
       "author": {
         "name": "Roman Samec",
         "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
       },
-      "collection": "ships",
-      "coverImage": "/images/krajanek-a-c5MD.jpeg",
-      "description": "Tato loď je novější z typu Krajánků. V kajutě je dostatek prostoru pro 4 osoby, včetně spaní a vybavení, s řízením z vnitřní kormidelny a s opalovací palubou na přídi. Vhodné pro rodiny s dětmi nebo samostatný pár, kteří hledají pohodlnou a cenově dostupnou volbu.",
-      "equipment": "krajanek-670",
-      "occupied": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTDzk-BxFl7VEWSIzluwDN4IsXvVILf3r3tTaqvxJhJKMN_xYeQeLinPou1RMBbRw/pubhtml?gid=144343434&single=true",
-      "publishedAt": "2023-10-26T18:31:08.735Z",
-      "slug": "krajanek-672",
+      "collection": "shipequipments",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-12-18T16:24:25.183Z",
+      "slug": "krajanek-670",
       "status": "published",
-      "title": "KRAJÁNEK 670/2",
-      "weekPrice": "4100,5300,6500,6500,4100",
-      "weekendPrice": "4300,5500,6200,6200,4300"
+      "title": "Krajánek 670"
     }
   ]
 }
