@@ -27,7 +27,7 @@ const Footer = () => {
               <h3 className="font-semibold text-l"> DALŠÍ INFORMACE</h3>
               <div>
                 <p><a href={absoluteUrl('/pages/about')}>Kdo jsme</a></p>
-                <p><a href="Ochrana osobních údajů" target="_blank">Ochrana osobních údajů</a></p>
+                <p><a href={absoluteUrl('/gdpr.pdf')} target="_blank">Ochrana osobních údajů</a></p>
               </div>
 
               <h3 className="font-semibold text-l"> NAŠI PARTNEŘI</h3>
