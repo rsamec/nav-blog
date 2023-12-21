@@ -5,10 +5,8 @@ author:
   name: 'Roman Samec'
   picture: 'https://avatars.githubusercontent.com/u/5671166?v=4'
 slug: 'hausbot-navis'
-description: 'Je větší plavidlo a se svými rozměry 3 x 9 m nabízí ubytování pro 6 osob ve dvou kajutách, WC a
-vybavenou kuchyňku. Velkou předností je i prostorná horní paluba. Hausbót je ideální pro rodiny
-s dětmi nebo pro skupinu přátel.'
-coverImage: '/images/hausboat-UxMj.jpeg'
+description: 'Je větší plavidlo a se svými rozměry 3 x 9 m nabízí ubytování pro 6 osob ve dvou kajutách, WC a vybavenou kuchyňku. Velkou předností je i prostorná horní paluba. Hausbót je ideální pro rodiny s dětmi nebo pro skupinu přátel.'
+coverImage: '/images/navis-c-A1Nj.jpeg'
 occupied: 'https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTymAEq0XAJtuZYvVIvsA7aWQrBmxbN1Do9aWusxsLHv21m5R-YkLrlzsLlQCrgQA/pubhtml/sheet?headers=false&gid=144343434'
 weekendPrice: '7800,10900,12100,12100,7800'
 weekPrice: '7100,9900,12700,12700,7100'
