@@ -1,4 +1,4 @@
-import { absoluteUrl } from "@/lib/utils/utils"
+import { absoluteUrl, normalizeHtmlExtension } from "@/lib/utils/utils"
 import SocialContact from "./SocialContact"
 
 const Footer = () => {
@@ -26,7 +26,7 @@ const Footer = () => {
             <div className="flex flex-col gap-1">
               <h3 className="font-semibold text-l"> DALŠÍ INFORMACE</h3>
               <div>
-                <p><a href={absoluteUrl('/pages/about')}>Kdo jsme</a></p>
+                <p><a href={normalizeHtmlExtension(absoluteUrl('/pages/about'))}>Kdo jsme</a></p>
                 <p><a href={absoluteUrl('/gdpr.pdf')} target="_blank">Ochrana osobních údajů</a></p>
               </div>
 

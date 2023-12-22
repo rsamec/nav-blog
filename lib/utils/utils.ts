@@ -4,6 +4,11 @@ export function absoluteUrl(path: string) {
   return `${rootSegment ? `/${rootSegment}`:''}${path}`
 }
 
+export function normalizeHtmlExtension(url:string){
+  const extension = process.env.NEXT_PUBLIC_HTML_EXTENSION == "true";
+  return extension ? `${url}.html`: url;
+}
+
 export function imageUrl(image: string | undefined) {
   return image ?? '';
 }
