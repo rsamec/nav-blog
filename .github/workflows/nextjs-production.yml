@@ -10,6 +10,7 @@ on:
 
 env:
   NEXT_PUBLIC_REPO_SLUG: ''
+  NEXT_PUBLIC_HTML_EXTENSION: true
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
