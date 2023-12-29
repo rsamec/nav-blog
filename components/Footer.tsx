@@ -28,6 +28,7 @@ const Footer = () => {
               <div>
                 <p><a href={normalizeHtmlExtension(absoluteUrl('/pages/about'))}>Kdo jsme</a></p>
                 <p><a href={absoluteUrl('/gdpr.pdf')} target="_blank">Ochrana osobních údajů</a></p>
+                <p><a href={absoluteUrl('/address.pdf')} target="_blank">Cesta k nám</a></p>
               </div>
 
               <h3 className="font-semibold text-l"> NAŠI PARTNEŘI</h3>
