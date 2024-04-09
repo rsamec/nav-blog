@@ -11,4 +11,4 @@ lang: 'cs'
 publishedAt: '2023-11-25T10:06:07.340Z'
 ---
 
-Nabízíme zapůjčení obytných lodí na Vaši dovolenou, a to bez jakéhokoli oprávnění či zkoušek. Místo pro Vaši aktivní dovolenou s rodinou nebo přijeďte na ryby. Netradiční rekreace pro rodiny s dětmi.
+Nabízíme zapůjčení obytných lodí na Orlické přehradě, a to bez jakéhokoli oprávnění či zkoušek. Místo pro Vaši aktivní dovolenou s rodinou nebo přijeďte na ryby. Netradiční rekreace pro rodiny s dětmi.
