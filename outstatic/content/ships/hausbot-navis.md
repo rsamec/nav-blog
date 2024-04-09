@@ -8,8 +8,8 @@ slug: 'hausbot-navis'
 description: 'Je větší plavidlo a se svými rozměry 3 x 9 m nabízí ubytování pro 6 osob ve dvou kajutách, WC a vybavenou kuchyňku. Velkou předností je i prostorná horní paluba. Hausbót je ideální pro rodiny s dětmi nebo pro skupinu přátel.'
 coverImage: '/images/navis-c-A1Nj.jpeg'
 occupied: 'https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTymAEq0XAJtuZYvVIvsA7aWQrBmxbN1Do9aWusxsLHv21m5R-YkLrlzsLlQCrgQA/pubhtml/sheet?headers=false&gid=144343434'
-weekendPrice: '7800,10900,12100,12100,7800'
-weekPrice: '7100,9900,12700,12700,7100'
+weekendPrice: '8100,12600,12600,12600,8100'
+weekPrice: '7300,13200,13200,13200,7300'
 equipment: 'hausbot-navis'
 publishedAt: '2023-10-22T10:41:13.953Z'
 ---
@@ -28,5 +28,9 @@ Pes, či jiné domácí zvíře na palubě – 150,-
 
 **Říjen**
 
-- 1 den (9:00 – 17:00) - **2 600,-**
-- 2 dny (9:00 – 17:00 posledního dne - **4 800,-**
+- 1 den - **2 900,-**
+- 2 dny - **5 100,-**
+- 3 dny - **6 500,-**
+- 4 dny a více - **dohodou**
+
+*(Nalodění 18:00 – vylodění poslední den 17:00)*

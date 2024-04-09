@@ -150,8 +150,8 @@
       "slug": "krajanek-673",
       "status": "published",
       "title": "KRAJÁNEK 670/3",
-      "weekPrice": "4100,5300,6500,6500,4100",
-      "weekendPrice": "4300,5500,6200,6200,4300"
+      "weekendPrice": "4500,6200,6200,6200,4500",
+      "weekPrice": "4300,6500,6500,6500,4300"
     },
     {
       "__outstatic": {
@@ -172,8 +172,8 @@
       "slug": "krajanek-672",
       "status": "published",
       "title": "KRAJÁNEK 670/2",
-      "weekPrice": "4100,5300,6500,6500,4100",
-      "weekendPrice": "4300,5500,6200,6200,4300"
+      "weekendPrice": "4500,6200,6200,6200,4500",
+      "weekPrice": "4300,6500,6500,6500,4300"
     },
     {
       "__outstatic": {
@@ -194,8 +194,8 @@
       "slug": "krajanek-670",
       "status": "published",
       "title": "KRAJÁNEK 670/1",
-      "weekPrice": "4100,5300,6300,6300,4100",
-      "weekendPrice": "4300,5500,6500,6500,4300"
+      "weekendPrice": "4500,6200,6200,6200,4500",
+      "weekPrice": "4300,6500,6500,6500,4300"
     },
     {
       "__outstatic": {
@@ -216,8 +216,8 @@
       "slug": "hausbot-navis",
       "status": "published",
       "title": "HAUSBÓT NAVIS",
-      "weekPrice": "7100,9900,12700,12700,7100",
-      "weekendPrice": "7800,10900,12100,12100,7800"
+      "weekendPrice": "8100,12600,12600,12600,8100",
+      "weekPrice": "7300,13200,13200,13200,7300"
     },
     {
       "__outstatic": {

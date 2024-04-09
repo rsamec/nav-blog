@@ -8,8 +8,8 @@ slug: 'krajanek-672'
 description: 'Tato loď je novější z typu Krajánků. V kajutě je dostatek prostoru pro 4 osoby, včetně spaní a vybavení, s řízením z vnitřní kormidelny a s opalovací palubou na přídi. Vhodné pro rodiny s dětmi nebo samostatný pár, kteří hledají pohodlnou a cenově dostupnou volbu.'
 coverImage: '/images/krajanek-a-c5MD.jpeg'
 occupied: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTDzk-BxFl7VEWSIzluwDN4IsXvVILf3r3tTaqvxJhJKMN_xYeQeLinPou1RMBbRw/pubhtml?gid=144343434&single=true'
-weekendPrice: '4300,5500,6200,6200,4300'
-weekPrice: '4100,5300,6500,6500,4100'
+weekendPrice: '4500,6200,6200,6200,4500'
+weekPrice: '4300,6500,6500,6500,4300'
 equipment: 'krajanek-670'
 publishedAt: '2023-10-26T18:31:08.735Z'
 ---
@@ -28,5 +28,9 @@ Pes, či jiné domácí zvíře na palubě – 150,-
 
 **Říjen**
 
-- 1 den (9:00 – 17:00) - **1 500,-**
-- 2 dny (9:00 – 17:00 posledního dne - **2 500,-**
+- 1 den - **1 500,-**
+- 2 dny - **2 500,-**
+- 3 dny - **3 500,-**
+- 4 dny a více - **dohodou**
+
+*(Nalodění 18:00 – vylodění poslední den 17:00)*
