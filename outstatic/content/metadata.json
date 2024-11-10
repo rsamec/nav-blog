@@ -1,7 +1,26 @@
 {
-  "commit": "6e03391cbad8bfc707670bc73e2e0cbeb9b8f662",
-  "generated": "Sun, 10 Nov 2024 07:35:43 GMT",
+  "commit": "5826c5a017f37471dd7718b70367f600e8f91d66",
+  "generated": "Sun, 10 Nov 2024 07:38:03 GMT",
   "metadata": [
+    {
+      "__outstatic": {
+        "commit": "cc1caf56f75a188e159f97bbb5af8dab4f6d6a8d",
+        "hash": "3985752211",
+        "path": "outstatic/content/pages/about.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "/images/hausboat-uxmj-Q5OD.jpeg",
+      "description": "",
+      "lang": "cs",
+      "publishedAt": "2023-12-18T17:46:43.156Z",
+      "slug": "about",
+      "status": "published",
+      "title": "O nás"
+    },
     {
       "__outstatic": {
         "commit": "649b9f54b24392bcf3d6b34367b59ea83e0c679e",
@@ -23,22 +42,21 @@
     },
     {
       "__outstatic": {
-        "commit": "cc1caf56f75a188e159f97bbb5af8dab4f6d6a8d",
-        "hash": "3985752211",
-        "path": "outstatic/content/pages/about.md"
+        "commit": "bd30d6a1daf1fac74a30057a89adde691d05b838",
+        "hash": "1129788257",
+        "path": "outstatic/content/shipequipments/hausbot-navis.md"
       },
       "author": {
         "name": "Roman Samec",
         "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
       },
-      "collection": "pages",
-      "coverImage": "/images/hausboat-uxmj-Q5OD.jpeg",
+      "collection": "shipequipments",
+      "coverImage": "",
       "description": "",
-      "lang": "cs",
-      "publishedAt": "2023-12-18T17:46:43.156Z",
-      "slug": "about",
+      "publishedAt": "2023-12-18T16:27:25.365Z",
+      "slug": "hausbot-navis",
       "status": "published",
-      "title": "O nás"
+      "title": "Hausbot Navis"
     },
     {
       "__outstatic": {
@@ -78,24 +96,6 @@
     },
     {
       "__outstatic": {
-        "commit": "d90a010eab49bb1ce8670bcf80b9b100aa3d7627",
-        "hash": "1277410107",
-        "path": "outstatic/content/projects/hausbot.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "/images/hausboat-Q5OT.jpeg",
-      "description": "",
-      "publishedAt": "2023-10-26T11:35:27.771Z",
-      "slug": "hausbot",
-      "status": "published",
-      "title": "Hausbot"
-    },
-    {
-      "__outstatic": {
         "commit": "27968e400cd17652860c8db6bb33feeb4bf01a7b",
         "hash": "766885164",
         "path": "outstatic/content/pages/home.md"
@@ -115,48 +115,26 @@
     },
     {
       "__outstatic": {
-        "commit": "bd30d6a1daf1fac74a30057a89adde691d05b838",
-        "hash": "1129788257",
-        "path": "outstatic/content/shipequipments/hausbot-navis.md"
+        "commit": "d90a010eab49bb1ce8670bcf80b9b100aa3d7627",
+        "hash": "1277410107",
+        "path": "outstatic/content/projects/hausbot.md"
       },
       "author": {
         "name": "Roman Samec",
         "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
       },
-      "collection": "shipequipments",
-      "coverImage": "",
+      "collection": "projects",
+      "coverImage": "/images/hausboat-Q5OT.jpeg",
       "description": "",
-      "publishedAt": "2023-12-18T16:27:25.365Z",
-      "slug": "hausbot-navis",
+      "publishedAt": "2023-10-26T11:35:27.771Z",
+      "slug": "hausbot",
       "status": "published",
-      "title": "Hausbot Navis"
-    },
-    {
-      "__outstatic": {
-        "commit": "09821553980a66ce3626f1b9dff289acc36eb898",
-        "hash": "3790363396",
-        "path": "outstatic/content/ships/krajanek-673.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "ships",
-      "coverImage": "/images/krajanek673-YwNz.jpg",
-      "description": "Tato loď je nejnovější z typu Krajánků. V kajutě je dostatek prostoru pro 4 osoby, včetně spaní a vybavení, s řízením z vnitřní kormidelny a s opalovací palubou na přídi. Vhodné pro rodiny s dětmi nebo samostatný pár, kteří hledají pohodlnou a cenově dostupnou volbu.",
-      "equipment": "krajanek-670",
-      "occupied": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ29GwL8ZV_QrKLrOF3HPsAa1GnVTiLC9Pf_4jhbS-1UbK6d-YdjGrq_5ddueDX-Q/pubhtml?gid=144343434&amp;single=true&amp;widget=true&amp;headers=false",
-      "publishedAt": "2023-12-16T16:04:35.132Z",
-      "slug": "krajanek-673",
-      "status": "published",
-      "title": "KRAJÁNEK 670/3",
-      "weekPrice": "4300,6500,6500,6500,4300",
-      "weekendPrice": "4500,6200,6200,6200,4500"
+      "title": "Hausbot"
     },
     {
       "__outstatic": {
         "commit": "fa9e205d15c212b8726c38f69cb9dd3b4b8d6663",
-        "hash": "206671272",
+        "hash": "2433140295",
         "path": "outstatic/content/ships/krajanek-672.md"
       },
       "author": {
@@ -172,8 +150,30 @@
       "slug": "krajanek-672",
       "status": "published",
       "title": "KRAJÁNEK 670/2",
-      "weekPrice": "4300,6500,6500,6500,4300",
-      "weekendPrice": "4500,6200,6200,6200,4500"
+      "weekPrice": "4600,7000,7000,7000,4600",
+      "weekendPrice": "4900,6700,6700,6700,4900"
+    },
+    {
+      "__outstatic": {
+        "commit": "09821553980a66ce3626f1b9dff289acc36eb898",
+        "hash": "988019781",
+        "path": "outstatic/content/ships/krajanek-673.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "ships",
+      "coverImage": "/images/krajanek673-YwNz.jpg",
+      "description": "Tato loď je nejnovější z typu Krajánků. V kajutě je dostatek prostoru pro 4 osoby, včetně spaní a vybavení, s řízením z vnitřní kormidelny a s opalovací palubou na přídi. Vhodné pro rodiny s dětmi nebo samostatný pár, kteří hledají pohodlnou a cenově dostupnou volbu.",
+      "equipment": "krajanek-670",
+      "occupied": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ29GwL8ZV_QrKLrOF3HPsAa1GnVTiLC9Pf_4jhbS-1UbK6d-YdjGrq_5ddueDX-Q/pubhtml?gid=144343434&amp;single=true&amp;widget=true&amp;headers=false",
+      "publishedAt": "2023-12-16T16:04:35.132Z",
+      "slug": "krajanek-673",
+      "status": "published",
+      "title": "KRAJÁNEK 670/3",
+      "weekPrice": "4600,7000,7000,7000,4600",
+      "weekendPrice": "4900,6700,6700,6700,4900"
     },
     {
       "__outstatic": {
@@ -200,7 +200,7 @@
     {
       "__outstatic": {
         "commit": "d127ace1e35856826a12a541a7d10d5bb7af18a4",
-        "hash": "2206195249",
+        "hash": "2487944146",
         "path": "outstatic/content/ships/hausbot-navis.md"
       },
       "author": {
@@ -216,8 +216,8 @@
       "slug": "hausbot-navis",
       "status": "published",
       "title": "HAUSBÓT NAVIS",
-      "weekPrice": "7300,13200,13200,13200,7300",
-      "weekendPrice": "8100,12600,12600,12600,8100"
+      "weekPrice": "8100,13400,13400,13400,8100",
+      "weekendPrice": "8900,12800,12800,12800,8900"
     },
     {
       "__outstatic": {
