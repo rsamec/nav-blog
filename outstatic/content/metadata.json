@@ -1,11 +1,11 @@
 {
-  "commit": "c564723f7737dda03d237be711bcee2559432ff3",
-  "generated": "2024-11-10T07:35:18.373Z",
+  "commit": "6e03391cbad8bfc707670bc73e2e0cbeb9b8f662",
+  "generated": "Sun, 10 Nov 2024 07:35:43 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "a795c83159879cfbae7e3d08c133f9e11328e024",
-        "hash": "3683650509",
+        "commit": "649b9f54b24392bcf3d6b34367b59ea83e0c679e",
+        "hash": "3244942832",
         "path": "outstatic/content/pages/home-cs.md"
       },
       "author": {
@@ -42,24 +42,6 @@
     },
     {
       "__outstatic": {
-        "commit": "bd30d6a1daf1fac74a30057a89adde691d05b838",
-        "hash": "1129788257",
-        "path": "outstatic/content/shipequipments/hausbot-navis.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "shipequipments",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-12-18T16:27:25.365Z",
-      "slug": "hausbot-navis",
-      "status": "published",
-      "title": "Hausbot Navis"
-    },
-    {
-      "__outstatic": {
         "commit": "de5c44f0de0c996dbbf4ebe0b17ec4b1d0439d71",
         "hash": "1515179513",
         "path": "outstatic/content/projects/priprava-na-pobyt.md"
@@ -78,24 +60,6 @@
     },
     {
       "__outstatic": {
-        "commit": "d90a010eab49bb1ce8670bcf80b9b100aa3d7627",
-        "hash": "1277410107",
-        "path": "outstatic/content/projects/hausbot.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "/images/hausboat-Q5OT.jpeg",
-      "description": "",
-      "publishedAt": "2023-10-26T11:35:27.771Z",
-      "slug": "hausbot",
-      "status": "published",
-      "title": "Hausbot"
-    },
-    {
-      "__outstatic": {
         "commit": "1c6d13a7216c29d86ab7abcbfab7f6879dfc201c",
         "hash": "403836780",
         "path": "outstatic/content/projects/cykloturistika.md"
@@ -111,6 +75,24 @@
       "slug": "cykloturistika",
       "status": "published",
       "title": "Cykloturistika"
+    },
+    {
+      "__outstatic": {
+        "commit": "d90a010eab49bb1ce8670bcf80b9b100aa3d7627",
+        "hash": "1277410107",
+        "path": "outstatic/content/projects/hausbot.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "/images/hausboat-Q5OT.jpeg",
+      "description": "",
+      "publishedAt": "2023-10-26T11:35:27.771Z",
+      "slug": "hausbot",
+      "status": "published",
+      "title": "Hausbot"
     },
     {
       "__outstatic": {
@@ -133,9 +115,9 @@
     },
     {
       "__outstatic": {
-        "commit": "19d98b60373091ea2f434427582113ce5eb6500b",
-        "hash": "2530108016",
-        "path": "outstatic/content/shipequipments/krajanek-670.md"
+        "commit": "bd30d6a1daf1fac74a30057a89adde691d05b838",
+        "hash": "1129788257",
+        "path": "outstatic/content/shipequipments/hausbot-navis.md"
       },
       "author": {
         "name": "Roman Samec",
@@ -144,15 +126,15 @@
       "collection": "shipequipments",
       "coverImage": "",
       "description": "",
-      "publishedAt": "2023-12-18T16:24:25.183Z",
-      "slug": "krajanek-670",
+      "publishedAt": "2023-12-18T16:27:25.365Z",
+      "slug": "hausbot-navis",
       "status": "published",
-      "title": "Krajánek 670"
+      "title": "Hausbot Navis"
     },
     {
       "__outstatic": {
-        "commit": "7164dbd6c746edb52928860c370bec54e0399aa2",
-        "hash": "988019781",
+        "commit": "09821553980a66ce3626f1b9dff289acc36eb898",
+        "hash": "3790363396",
         "path": "outstatic/content/ships/krajanek-673.md"
       },
       "author": {
@@ -168,13 +150,13 @@
       "slug": "krajanek-673",
       "status": "published",
       "title": "KRAJÁNEK 670/3",
-      "weekPrice": "4600,7000,7000,7000,4600",
-      "weekendPrice": "4900,6700,6700,6700,4900"
+      "weekPrice": "4300,6500,6500,6500,4300",
+      "weekendPrice": "4500,6200,6200,6200,4500"
     },
     {
       "__outstatic": {
-        "commit": "31584ab845563b9b674c278941fb76e3950113d0",
-        "hash": "2433140295",
+        "commit": "fa9e205d15c212b8726c38f69cb9dd3b4b8d6663",
+        "hash": "206671272",
         "path": "outstatic/content/ships/krajanek-672.md"
       },
       "author": {
@@ -190,12 +172,12 @@
       "slug": "krajanek-672",
       "status": "published",
       "title": "KRAJÁNEK 670/2",
-      "weekPrice": "4600,7000,7000,7000,4600",
-      "weekendPrice": "4900,6700,6700,6700,4900"
+      "weekPrice": "4300,6500,6500,6500,4300",
+      "weekendPrice": "4500,6200,6200,6200,4500"
     },
     {
       "__outstatic": {
-        "commit": "f72954e9c8eaf4f2848478eac6976d13f2faf464",
+        "commit": "702ff6cc07b4d5c7aa4f28d50381cc399c99e4fb",
         "hash": "2294823937",
         "path": "outstatic/content/ships/krajanek-670.md"
       },
@@ -217,8 +199,8 @@
     },
     {
       "__outstatic": {
-        "commit": "c564723f7737dda03d237be711bcee2559432ff3",
-        "hash": "2487944146",
+        "commit": "d127ace1e35856826a12a541a7d10d5bb7af18a4",
+        "hash": "2206195249",
         "path": "outstatic/content/ships/hausbot-navis.md"
       },
       "author": {
@@ -234,8 +216,26 @@
       "slug": "hausbot-navis",
       "status": "published",
       "title": "HAUSBÓT NAVIS",
-      "weekPrice": "8100,13400,13400,13400,8100",
-      "weekendPrice": "8900,12800,12800,12800,8900"
+      "weekPrice": "7300,13200,13200,13200,7300",
+      "weekendPrice": "8100,12600,12600,12600,8100"
+    },
+    {
+      "__outstatic": {
+        "commit": "19d98b60373091ea2f434427582113ce5eb6500b",
+        "hash": "2530108016",
+        "path": "outstatic/content/shipequipments/krajanek-670.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "shipequipments",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-12-18T16:24:25.183Z",
+      "slug": "krajanek-670",
+      "status": "published",
+      "title": "Krajánek 670"
     }
   ]
 }
