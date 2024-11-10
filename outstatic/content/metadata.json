@@ -1,6 +1,6 @@
 {
-  "commit": "31584ab845563b9b674c278941fb76e3950113d0",
-  "generated": "2024-11-10T07:33:01.981Z",
+  "commit": "f72954e9c8eaf4f2848478eac6976d13f2faf464",
+  "generated": "2024-11-10T07:33:31.252Z",
   "metadata": [
     {
       "__outstatic": {
@@ -133,28 +133,6 @@
     },
     {
       "__outstatic": {
-        "commit": "dfb9571b1bf068806ba1555711edbf6f8636dea2",
-        "hash": "397936097",
-        "path": "outstatic/content/ships/krajanek-670.md"
-      },
-      "author": {
-        "name": "Roman Samec",
-        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
-      },
-      "collection": "ships",
-      "coverImage": "/images/file4-EyNz.jpeg",
-      "description": "Tato loď je druhá vyrobená z typu Krajánků. V kajutě je dostatek prostoru pro 4 osoby, včetně spaní a vybavení, s řízením z vnitřní kormidelny a s opalovací palubou na přídi. Vhodné pro rodiny s dětmi nebo samostatný pár, kteří hledají pohodlnou a cenově dostupnou volbu.",
-      "equipment": "krajanek-670",
-      "occupied": "https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTxCyobEJnpLcte-37LgDJicoHeCzav2kuXalQK6QDU-kky1Eshz_6VEm0mDfwKUw/pubhtml/sheet?headers=false&gid=144343434",
-      "publishedAt": "2023-10-20T19:26:23.955Z",
-      "slug": "krajanek-670",
-      "status": "published",
-      "title": "KRAJÁNEK 670/1",
-      "weekPrice": "4300,6500,6500,6500,4300",
-      "weekendPrice": "4500,6200,6200,6200,4500"
-    },
-    {
-      "__outstatic": {
         "commit": "a86f7810f6e43f1b9793c144ca1535fe33c772fd",
         "hash": "70344",
         "path": "outstatic/content/ships/hausbot-navis.md"
@@ -234,6 +212,28 @@
       "slug": "krajanek-672",
       "status": "published",
       "title": "KRAJÁNEK 670/2",
+      "weekPrice": "4600,7000,7000,7000,4600",
+      "weekendPrice": "4900,6700,6700,6700,4900"
+    },
+    {
+      "__outstatic": {
+        "commit": "f72954e9c8eaf4f2848478eac6976d13f2faf464",
+        "hash": "2294823937",
+        "path": "outstatic/content/ships/krajanek-670.md"
+      },
+      "author": {
+        "name": "Roman Samec",
+        "picture": "https://avatars.githubusercontent.com/u/5671166?v=4"
+      },
+      "collection": "ships",
+      "coverImage": "/images/file4-EyNz.jpeg",
+      "description": "Tato loď je druhá vyrobená z typu Krajánků. V kajutě je dostatek prostoru pro 4 osoby, včetně spaní a vybavení, s řízením z vnitřní kormidelny a s opalovací palubou na přídi. Vhodné pro rodiny s dětmi nebo samostatný pár, kteří hledají pohodlnou a cenově dostupnou volbu.",
+      "equipment": "krajanek-670",
+      "occupied": "https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTxCyobEJnpLcte-37LgDJicoHeCzav2kuXalQK6QDU-kky1Eshz_6VEm0mDfwKUw/pubhtml/sheet?headers=false&gid=144343434",
+      "publishedAt": "2023-10-20T19:26:23.955Z",
+      "slug": "krajanek-670",
+      "status": "published",
+      "title": "KRAJÁNEK 670/1",
       "weekPrice": "4600,7000,7000,7000,4600",
       "weekendPrice": "4900,6700,6700,6700,4900"
     }

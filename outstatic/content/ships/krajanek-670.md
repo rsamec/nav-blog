@@ -5,13 +5,11 @@ author:
   name: 'Roman Samec'
   picture: 'https://avatars.githubusercontent.com/u/5671166?v=4'
 slug: 'krajanek-670'
-description: 'Tato loď je druhá vyrobená z typu Krajánků. V kajutě je dostatek prostoru pro 4 osoby, včetně
-spaní a vybavení, s řízením z vnitřní kormidelny a s opalovací palubou na přídi. Vhodné pro rodiny s
-dětmi nebo samostatný pár, kteří hledají pohodlnou a cenově dostupnou volbu.'
+description: 'Tato loď je druhá vyrobená z typu Krajánků. V kajutě je dostatek prostoru pro 4 osoby, včetně spaní a vybavení, s řízením z vnitřní kormidelny a s opalovací palubou na přídi. Vhodné pro rodiny s dětmi nebo samostatný pár, kteří hledají pohodlnou a cenově dostupnou volbu.'
 coverImage: '/images/file4-EyNz.jpeg'
 occupied: 'https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTxCyobEJnpLcte-37LgDJicoHeCzav2kuXalQK6QDU-kky1Eshz_6VEm0mDfwKUw/pubhtml/sheet?headers=false&gid=144343434'
-weekendPrice: '4500,6200,6200,6200,4500'
-weekPrice: '4300,6500,6500,6500,4300'
+weekendPrice: '4900,6700,6700,6700,4900'
+weekPrice: '4600,7000,7000,7000,4600'
 equipment: 'krajanek-670'
 publishedAt: '2023-10-20T19:26:23.955Z'
 ---
