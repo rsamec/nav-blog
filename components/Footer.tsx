@@ -20,6 +20,7 @@ const Footer = () => {
               <a href="https://www.novinky.cz/cestovani/clanek/orlicka-prehrada-na-hausbotu-za-klidem-i-pamatkami-40401174" target="_blank">Na hausbótu za klidem i památkami</a>
               <a href="https://youtu.be/i0mm_MLkomU?si=zswtCsXmy_3osLsD" target="_blank">Expedice Orlík Hausbot Navis</a>
               <a href="https://youtu.be/S5FnU8ZS87E?feature=shared" target="_blank">S Krajánkem po Orlíku</a>
+              <a href="https://www.lodenarece.cz/krajanek24a.mp4" target="_blank">Expedice Krajánek</a>
               
 
             </div>
@@ -33,6 +34,7 @@ const Footer = () => {
 
               <h3 className="font-semibold text-l"> NAŠI PARTNEŘI</h3>
               <a href="http://www.chatkytrhovky.cz/" target="_blank">chatkytrhovky.cz</a>
+              <a href="https://www.pohadkovachaloupka.cz/" target="_blank">Pohádková chaloupka</a>
             </div>
 
           </div>

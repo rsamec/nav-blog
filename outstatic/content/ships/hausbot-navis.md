@@ -24,7 +24,7 @@ Spotřebované palivo není v ceně pronájmu a jeho úhrada probíhá po ukonč
 
 **Vratná kauce 5 000,- Kč**
 
-Pes, či jiné domácí zvíře na palubě – 150,-
+Pes, či jiné domácí zvíře na palubě – 200,-
 
 **Říjen**
 
@@ -34,3 +34,5 @@ Pes, či jiné domácí zvíře na palubě – 150,-
 - 4 dny a více - **dohodou**
 
 *(Nalodění 18:00 – vylodění poslední den 17:00)*
+
+K hausbotu Navis nabízím půjčení 2 kusů paddleboardů.

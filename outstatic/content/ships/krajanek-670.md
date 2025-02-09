@@ -24,7 +24,7 @@ Spotřebované palivo není v ceně pronájmu a jeho úhrada probíhá po ukonč
 
 **Vratná kauce 3000,- Kč**
 
-Pes, či jiné domácí zvíře na palubě – 150,-
+Pes, či jiné domácí zvíře na palubě – 200,-
 
 **Říjen**
 
